@@ -1,0 +1,2648 @@
+[
+  {
+    "claim_id": "CLM-1001",
+    "line_id": "CLM-1001-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 969
+  },
+  {
+    "claim_id": "CLM-1002",
+    "line_id": "CLM-1002-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 886
+  },
+  {
+    "claim_id": "CLM-1003",
+    "line_id": "CLM-1003-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 152
+  },
+  {
+    "claim_id": "CLM-1004",
+    "line_id": "CLM-1004-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1189
+  },
+  {
+    "claim_id": "CLM-1005",
+    "line_id": "CLM-1005-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 105
+  },
+  {
+    "claim_id": "CLM-1006",
+    "line_id": "CLM-1006-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 732
+  },
+  {
+    "claim_id": "CLM-1007",
+    "line_id": "CLM-1007-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 974
+  },
+  {
+    "claim_id": "CLM-1008",
+    "line_id": "CLM-1008-1",
+    "code": "J3490",
+    "description": "GLP-1 initiation",
+    "allowed_amount": 243
+  },
+  {
+    "claim_id": "CLM-1009",
+    "line_id": "CLM-1009-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 181
+  },
+  {
+    "claim_id": "CLM-1010",
+    "line_id": "CLM-1010-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1310
+  },
+  {
+    "claim_id": "CLM-1011",
+    "line_id": "CLM-1011-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 759
+  },
+  {
+    "claim_id": "CLM-1012",
+    "line_id": "CLM-1012-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 656
+  },
+  {
+    "claim_id": "CLM-1013",
+    "line_id": "CLM-1013-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1252
+  },
+  {
+    "claim_id": "CLM-1014",
+    "line_id": "CLM-1014-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1065
+  },
+  {
+    "claim_id": "CLM-1015",
+    "line_id": "CLM-1015-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1341
+  },
+  {
+    "claim_id": "CLM-1016",
+    "line_id": "CLM-1016-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 969
+  },
+  {
+    "claim_id": "CLM-1017",
+    "line_id": "CLM-1017-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 136
+  },
+  {
+    "claim_id": "CLM-1018",
+    "line_id": "CLM-1018-1",
+    "code": "99214",
+    "description": "Respiratory infection visit",
+    "allowed_amount": 880
+  },
+  {
+    "claim_id": "CLM-1019",
+    "line_id": "CLM-1019-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 227
+  },
+  {
+    "claim_id": "CLM-1020",
+    "line_id": "CLM-1020-1",
+    "code": "94010",
+    "description": "Spirometry",
+    "allowed_amount": 1053
+  },
+  {
+    "claim_id": "CLM-1021",
+    "line_id": "CLM-1021-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 103
+  },
+  {
+    "claim_id": "CLM-1022",
+    "line_id": "CLM-1022-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 137
+  },
+  {
+    "claim_id": "CLM-1023",
+    "line_id": "CLM-1023-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1227
+  },
+  {
+    "claim_id": "CLM-1024",
+    "line_id": "CLM-1024-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1198
+  },
+  {
+    "claim_id": "CLM-1025",
+    "line_id": "CLM-1025-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1211
+  },
+  {
+    "claim_id": "CLM-1026",
+    "line_id": "CLM-1026-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 489
+  },
+  {
+    "claim_id": "CLM-1027",
+    "line_id": "CLM-1027-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1285
+  },
+  {
+    "claim_id": "CLM-1028",
+    "line_id": "CLM-1028-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 653
+  },
+  {
+    "claim_id": "CLM-1029",
+    "line_id": "CLM-1029-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1316
+  },
+  {
+    "claim_id": "CLM-1030",
+    "line_id": "CLM-1030-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 605
+  },
+  {
+    "claim_id": "CLM-1031",
+    "line_id": "CLM-1031-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1331
+  },
+  {
+    "claim_id": "CLM-1032",
+    "line_id": "CLM-1032-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 519
+  },
+  {
+    "claim_id": "CLM-1033",
+    "line_id": "CLM-1033-1",
+    "code": "99214",
+    "description": "Respiratory infection visit",
+    "allowed_amount": 261
+  },
+  {
+    "claim_id": "CLM-1034",
+    "line_id": "CLM-1034-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1080
+  },
+  {
+    "claim_id": "CLM-1035",
+    "line_id": "CLM-1035-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 945
+  },
+  {
+    "claim_id": "CLM-1036",
+    "line_id": "CLM-1036-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 296
+  },
+  {
+    "claim_id": "CLM-1037",
+    "line_id": "CLM-1037-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 230
+  },
+  {
+    "claim_id": "CLM-1038",
+    "line_id": "CLM-1038-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 635
+  },
+  {
+    "claim_id": "CLM-1039",
+    "line_id": "CLM-1039-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1005
+  },
+  {
+    "claim_id": "CLM-1040",
+    "line_id": "CLM-1040-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1001
+  },
+  {
+    "claim_id": "CLM-1041",
+    "line_id": "CLM-1041-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 422
+  },
+  {
+    "claim_id": "CLM-1042",
+    "line_id": "CLM-1042-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 333
+  },
+  {
+    "claim_id": "CLM-1043",
+    "line_id": "CLM-1043-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 359
+  },
+  {
+    "claim_id": "CLM-1044",
+    "line_id": "CLM-1044-1",
+    "code": "J3490",
+    "description": "GLP-1 initiation",
+    "allowed_amount": 700
+  },
+  {
+    "claim_id": "CLM-1045",
+    "line_id": "CLM-1045-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1177
+  },
+  {
+    "claim_id": "CLM-1046",
+    "line_id": "CLM-1046-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1248
+  },
+  {
+    "claim_id": "CLM-1047",
+    "line_id": "CLM-1047-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 940
+  },
+  {
+    "claim_id": "CLM-1048",
+    "line_id": "CLM-1048-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 417
+  },
+  {
+    "claim_id": "CLM-1049",
+    "line_id": "CLM-1049-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 583
+  },
+  {
+    "claim_id": "CLM-1050",
+    "line_id": "CLM-1050-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1290
+  },
+  {
+    "claim_id": "CLM-1051",
+    "line_id": "CLM-1051-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 250
+  },
+  {
+    "claim_id": "CLM-1052",
+    "line_id": "CLM-1052-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 616
+  },
+  {
+    "claim_id": "CLM-1053",
+    "line_id": "CLM-1053-1",
+    "code": "94010",
+    "description": "Spirometry",
+    "allowed_amount": 1301
+  },
+  {
+    "claim_id": "CLM-1054",
+    "line_id": "CLM-1054-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1296
+  },
+  {
+    "claim_id": "CLM-1055",
+    "line_id": "CLM-1055-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 418
+  },
+  {
+    "claim_id": "CLM-1056",
+    "line_id": "CLM-1056-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 399
+  },
+  {
+    "claim_id": "CLM-1057",
+    "line_id": "CLM-1057-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 815
+  },
+  {
+    "claim_id": "CLM-1058",
+    "line_id": "CLM-1058-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 420
+  },
+  {
+    "claim_id": "CLM-1059",
+    "line_id": "CLM-1059-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 722
+  },
+  {
+    "claim_id": "CLM-1060",
+    "line_id": "CLM-1060-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 651
+  },
+  {
+    "claim_id": "CLM-1061",
+    "line_id": "CLM-1061-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1089
+  },
+  {
+    "claim_id": "CLM-1062",
+    "line_id": "CLM-1062-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 504
+  },
+  {
+    "claim_id": "CLM-1063",
+    "line_id": "CLM-1063-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 406
+  },
+  {
+    "claim_id": "CLM-1064",
+    "line_id": "CLM-1064-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 788
+  },
+  {
+    "claim_id": "CLM-1065",
+    "line_id": "CLM-1065-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 574
+  },
+  {
+    "claim_id": "CLM-1066",
+    "line_id": "CLM-1066-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 426
+  },
+  {
+    "claim_id": "CLM-1067",
+    "line_id": "CLM-1067-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 925
+  },
+  {
+    "claim_id": "CLM-1068",
+    "line_id": "CLM-1068-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 256
+  },
+  {
+    "claim_id": "CLM-1069",
+    "line_id": "CLM-1069-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 246
+  },
+  {
+    "claim_id": "CLM-1070",
+    "line_id": "CLM-1070-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 152
+  },
+  {
+    "claim_id": "CLM-1071",
+    "line_id": "CLM-1071-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 616
+  },
+  {
+    "claim_id": "CLM-1072",
+    "line_id": "CLM-1072-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 713
+  },
+  {
+    "claim_id": "CLM-1073",
+    "line_id": "CLM-1073-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 313
+  },
+  {
+    "claim_id": "CLM-1074",
+    "line_id": "CLM-1074-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 277
+  },
+  {
+    "claim_id": "CLM-1075",
+    "line_id": "CLM-1075-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1112
+  },
+  {
+    "claim_id": "CLM-1076",
+    "line_id": "CLM-1076-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 677
+  },
+  {
+    "claim_id": "CLM-1077",
+    "line_id": "CLM-1077-1",
+    "code": "J3490",
+    "description": "GLP-1 initiation",
+    "allowed_amount": 276
+  },
+  {
+    "claim_id": "CLM-1078",
+    "line_id": "CLM-1078-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 691
+  },
+  {
+    "claim_id": "CLM-1079",
+    "line_id": "CLM-1079-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 404
+  },
+  {
+    "claim_id": "CLM-1080",
+    "line_id": "CLM-1080-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 700
+  },
+  {
+    "claim_id": "CLM-1081",
+    "line_id": "CLM-1081-1",
+    "code": "99214",
+    "description": "Respiratory infection visit",
+    "allowed_amount": 1124
+  },
+  {
+    "claim_id": "CLM-1082",
+    "line_id": "CLM-1082-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 318
+  },
+  {
+    "claim_id": "CLM-1083",
+    "line_id": "CLM-1083-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 967
+  },
+  {
+    "claim_id": "CLM-1084",
+    "line_id": "CLM-1084-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 687
+  },
+  {
+    "claim_id": "CLM-1085",
+    "line_id": "CLM-1085-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 668
+  },
+  {
+    "claim_id": "CLM-1086",
+    "line_id": "CLM-1086-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 321
+  },
+  {
+    "claim_id": "CLM-1087",
+    "line_id": "CLM-1087-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1068
+  },
+  {
+    "claim_id": "CLM-1088",
+    "line_id": "CLM-1088-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 109
+  },
+  {
+    "claim_id": "CLM-1089",
+    "line_id": "CLM-1089-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1350
+  },
+  {
+    "claim_id": "CLM-1090",
+    "line_id": "CLM-1090-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 378
+  },
+  {
+    "claim_id": "CLM-1091",
+    "line_id": "CLM-1091-1",
+    "code": "94010",
+    "description": "Spirometry",
+    "allowed_amount": 917
+  },
+  {
+    "claim_id": "CLM-1092",
+    "line_id": "CLM-1092-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 907
+  },
+  {
+    "claim_id": "CLM-1093",
+    "line_id": "CLM-1093-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 115
+  },
+  {
+    "claim_id": "CLM-1094",
+    "line_id": "CLM-1094-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 483
+  },
+  {
+    "claim_id": "CLM-1095",
+    "line_id": "CLM-1095-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1336
+  },
+  {
+    "claim_id": "CLM-1096",
+    "line_id": "CLM-1096-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 858
+  },
+  {
+    "claim_id": "CLM-1097",
+    "line_id": "CLM-1097-1",
+    "code": "94010",
+    "description": "Spirometry",
+    "allowed_amount": 993
+  },
+  {
+    "claim_id": "CLM-1098",
+    "line_id": "CLM-1098-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 879
+  },
+  {
+    "claim_id": "CLM-1099",
+    "line_id": "CLM-1099-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1068
+  },
+  {
+    "claim_id": "CLM-1100",
+    "line_id": "CLM-1100-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 221
+  },
+  {
+    "claim_id": "CLM-1101",
+    "line_id": "CLM-1101-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 303
+  },
+  {
+    "claim_id": "CLM-1102",
+    "line_id": "CLM-1102-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 191
+  },
+  {
+    "claim_id": "CLM-1103",
+    "line_id": "CLM-1103-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1234
+  },
+  {
+    "claim_id": "CLM-1104",
+    "line_id": "CLM-1104-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 209
+  },
+  {
+    "claim_id": "CLM-1105",
+    "line_id": "CLM-1105-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1190
+  },
+  {
+    "claim_id": "CLM-1106",
+    "line_id": "CLM-1106-1",
+    "code": "J3490",
+    "description": "GLP-1 initiation",
+    "allowed_amount": 465
+  },
+  {
+    "claim_id": "CLM-1107",
+    "line_id": "CLM-1107-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 560
+  },
+  {
+    "claim_id": "CLM-1108",
+    "line_id": "CLM-1108-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 193
+  },
+  {
+    "claim_id": "CLM-1109",
+    "line_id": "CLM-1109-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 214
+  },
+  {
+    "claim_id": "CLM-1110",
+    "line_id": "CLM-1110-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1024
+  },
+  {
+    "claim_id": "CLM-1111",
+    "line_id": "CLM-1111-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1229
+  },
+  {
+    "claim_id": "CLM-1112",
+    "line_id": "CLM-1112-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 184
+  },
+  {
+    "claim_id": "CLM-1113",
+    "line_id": "CLM-1113-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1119
+  },
+  {
+    "claim_id": "CLM-1114",
+    "line_id": "CLM-1114-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 234
+  },
+  {
+    "claim_id": "CLM-1115",
+    "line_id": "CLM-1115-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 914
+  },
+  {
+    "claim_id": "CLM-1116",
+    "line_id": "CLM-1116-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 290
+  },
+  {
+    "claim_id": "CLM-1117",
+    "line_id": "CLM-1117-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 113
+  },
+  {
+    "claim_id": "CLM-1118",
+    "line_id": "CLM-1118-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 970
+  },
+  {
+    "claim_id": "CLM-1119",
+    "line_id": "CLM-1119-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 602
+  },
+  {
+    "claim_id": "CLM-1120",
+    "line_id": "CLM-1120-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 904
+  },
+  {
+    "claim_id": "CLM-1121",
+    "line_id": "CLM-1121-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 629
+  },
+  {
+    "claim_id": "CLM-1122",
+    "line_id": "CLM-1122-1",
+    "code": "94010",
+    "description": "Spirometry",
+    "allowed_amount": 917
+  },
+  {
+    "claim_id": "CLM-1123",
+    "line_id": "CLM-1123-1",
+    "code": "99214",
+    "description": "Respiratory infection visit",
+    "allowed_amount": 155
+  },
+  {
+    "claim_id": "CLM-1124",
+    "line_id": "CLM-1124-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1353
+  },
+  {
+    "claim_id": "CLM-1125",
+    "line_id": "CLM-1125-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 962
+  },
+  {
+    "claim_id": "CLM-1126",
+    "line_id": "CLM-1126-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 753
+  },
+  {
+    "claim_id": "CLM-1127",
+    "line_id": "CLM-1127-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1309
+  },
+  {
+    "claim_id": "CLM-1128",
+    "line_id": "CLM-1128-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 105
+  },
+  {
+    "claim_id": "CLM-1129",
+    "line_id": "CLM-1129-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 210
+  },
+  {
+    "claim_id": "CLM-1130",
+    "line_id": "CLM-1130-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 336
+  },
+  {
+    "claim_id": "CLM-1131",
+    "line_id": "CLM-1131-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1315
+  },
+  {
+    "claim_id": "CLM-1132",
+    "line_id": "CLM-1132-1",
+    "code": "J3490",
+    "description": "GLP-1 initiation",
+    "allowed_amount": 852
+  },
+  {
+    "claim_id": "CLM-1133",
+    "line_id": "CLM-1133-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1220
+  },
+  {
+    "claim_id": "CLM-1134",
+    "line_id": "CLM-1134-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1327
+  },
+  {
+    "claim_id": "CLM-1135",
+    "line_id": "CLM-1135-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1255
+  },
+  {
+    "claim_id": "CLM-1136",
+    "line_id": "CLM-1136-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1216
+  },
+  {
+    "claim_id": "CLM-1137",
+    "line_id": "CLM-1137-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 378
+  },
+  {
+    "claim_id": "CLM-1138",
+    "line_id": "CLM-1138-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1336
+  },
+  {
+    "claim_id": "CLM-1139",
+    "line_id": "CLM-1139-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 142
+  },
+  {
+    "claim_id": "CLM-1140",
+    "line_id": "CLM-1140-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 353
+  },
+  {
+    "claim_id": "CLM-1141",
+    "line_id": "CLM-1141-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 105
+  },
+  {
+    "claim_id": "CLM-1142",
+    "line_id": "CLM-1142-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 687
+  },
+  {
+    "claim_id": "CLM-1143",
+    "line_id": "CLM-1143-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 416
+  },
+  {
+    "claim_id": "CLM-1144",
+    "line_id": "CLM-1144-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 556
+  },
+  {
+    "claim_id": "CLM-1145",
+    "line_id": "CLM-1145-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 888
+  },
+  {
+    "claim_id": "CLM-1146",
+    "line_id": "CLM-1146-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1158
+  },
+  {
+    "claim_id": "CLM-1147",
+    "line_id": "CLM-1147-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1051
+  },
+  {
+    "claim_id": "CLM-1148",
+    "line_id": "CLM-1148-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 420
+  },
+  {
+    "claim_id": "CLM-1149",
+    "line_id": "CLM-1149-1",
+    "code": "94010",
+    "description": "Spirometry",
+    "allowed_amount": 1229
+  },
+  {
+    "claim_id": "CLM-1150",
+    "line_id": "CLM-1150-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1389
+  },
+  {
+    "claim_id": "CLM-1151",
+    "line_id": "CLM-1151-1",
+    "code": "94010",
+    "description": "Spirometry",
+    "allowed_amount": 674
+  },
+  {
+    "claim_id": "CLM-1152",
+    "line_id": "CLM-1152-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1113
+  },
+  {
+    "claim_id": "CLM-1153",
+    "line_id": "CLM-1153-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1037
+  },
+  {
+    "claim_id": "CLM-1154",
+    "line_id": "CLM-1154-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1060
+  },
+  {
+    "claim_id": "CLM-1155",
+    "line_id": "CLM-1155-1",
+    "code": "J3490",
+    "description": "GLP-1 initiation",
+    "allowed_amount": 1253
+  },
+  {
+    "claim_id": "CLM-1156",
+    "line_id": "CLM-1156-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 588
+  },
+  {
+    "claim_id": "CLM-1157",
+    "line_id": "CLM-1157-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1220
+  },
+  {
+    "claim_id": "CLM-1158",
+    "line_id": "CLM-1158-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 683
+  },
+  {
+    "claim_id": "CLM-1159",
+    "line_id": "CLM-1159-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 829
+  },
+  {
+    "claim_id": "CLM-1160",
+    "line_id": "CLM-1160-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1106
+  },
+  {
+    "claim_id": "CLM-1161",
+    "line_id": "CLM-1161-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 443
+  },
+  {
+    "claim_id": "CLM-1162",
+    "line_id": "CLM-1162-1",
+    "code": "99214",
+    "description": "Respiratory infection visit",
+    "allowed_amount": 1250
+  },
+  {
+    "claim_id": "CLM-1163",
+    "line_id": "CLM-1163-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 411
+  },
+  {
+    "claim_id": "CLM-1164",
+    "line_id": "CLM-1164-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1191
+  },
+  {
+    "claim_id": "CLM-1165",
+    "line_id": "CLM-1165-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 647
+  },
+  {
+    "claim_id": "CLM-1166",
+    "line_id": "CLM-1166-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 433
+  },
+  {
+    "claim_id": "CLM-1167",
+    "line_id": "CLM-1167-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1267
+  },
+  {
+    "claim_id": "CLM-1168",
+    "line_id": "CLM-1168-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 263
+  },
+  {
+    "claim_id": "CLM-1169",
+    "line_id": "CLM-1169-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 824
+  },
+  {
+    "claim_id": "CLM-1170",
+    "line_id": "CLM-1170-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1175
+  },
+  {
+    "claim_id": "CLM-1171",
+    "line_id": "CLM-1171-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 549
+  },
+  {
+    "claim_id": "CLM-1172",
+    "line_id": "CLM-1172-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 979
+  },
+  {
+    "claim_id": "CLM-1173",
+    "line_id": "CLM-1173-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 523
+  },
+  {
+    "claim_id": "CLM-1174",
+    "line_id": "CLM-1174-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1039
+  },
+  {
+    "claim_id": "CLM-1175",
+    "line_id": "CLM-1175-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 199
+  },
+  {
+    "claim_id": "CLM-1176",
+    "line_id": "CLM-1176-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 811
+  },
+  {
+    "claim_id": "CLM-1177",
+    "line_id": "CLM-1177-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1353
+  },
+  {
+    "claim_id": "CLM-1178",
+    "line_id": "CLM-1178-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 978
+  },
+  {
+    "claim_id": "CLM-1179",
+    "line_id": "CLM-1179-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 923
+  },
+  {
+    "claim_id": "CLM-1180",
+    "line_id": "CLM-1180-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 397
+  },
+  {
+    "claim_id": "CLM-1181",
+    "line_id": "CLM-1181-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1221
+  },
+  {
+    "claim_id": "CLM-1182",
+    "line_id": "CLM-1182-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 185
+  },
+  {
+    "claim_id": "CLM-1183",
+    "line_id": "CLM-1183-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1272
+  },
+  {
+    "claim_id": "CLM-1184",
+    "line_id": "CLM-1184-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1261
+  },
+  {
+    "claim_id": "CLM-1185",
+    "line_id": "CLM-1185-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 552
+  },
+  {
+    "claim_id": "CLM-1186",
+    "line_id": "CLM-1186-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1358
+  },
+  {
+    "claim_id": "CLM-1187",
+    "line_id": "CLM-1187-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 996
+  },
+  {
+    "claim_id": "CLM-1188",
+    "line_id": "CLM-1188-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 458
+  },
+  {
+    "claim_id": "CLM-1189",
+    "line_id": "CLM-1189-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 239
+  },
+  {
+    "claim_id": "CLM-1190",
+    "line_id": "CLM-1190-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1303
+  },
+  {
+    "claim_id": "CLM-1191",
+    "line_id": "CLM-1191-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 754
+  },
+  {
+    "claim_id": "CLM-1192",
+    "line_id": "CLM-1192-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 97
+  },
+  {
+    "claim_id": "CLM-1193",
+    "line_id": "CLM-1193-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 519
+  },
+  {
+    "claim_id": "CLM-1194",
+    "line_id": "CLM-1194-1",
+    "code": "99214",
+    "description": "Respiratory infection visit",
+    "allowed_amount": 474
+  },
+  {
+    "claim_id": "CLM-1195",
+    "line_id": "CLM-1195-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 842
+  },
+  {
+    "claim_id": "CLM-1196",
+    "line_id": "CLM-1196-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 983
+  },
+  {
+    "claim_id": "CLM-1197",
+    "line_id": "CLM-1197-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1131
+  },
+  {
+    "claim_id": "CLM-1198",
+    "line_id": "CLM-1198-1",
+    "code": "94010",
+    "description": "Spirometry",
+    "allowed_amount": 555
+  },
+  {
+    "claim_id": "CLM-1199",
+    "line_id": "CLM-1199-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 554
+  },
+  {
+    "claim_id": "CLM-1200",
+    "line_id": "CLM-1200-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 393
+  },
+  {
+    "claim_id": "CLM-1201",
+    "line_id": "CLM-1201-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 609
+  },
+  {
+    "claim_id": "CLM-1202",
+    "line_id": "CLM-1202-1",
+    "code": "99214",
+    "description": "Respiratory infection visit",
+    "allowed_amount": 813
+  },
+  {
+    "claim_id": "CLM-1203",
+    "line_id": "CLM-1203-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 684
+  },
+  {
+    "claim_id": "CLM-1204",
+    "line_id": "CLM-1204-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1277
+  },
+  {
+    "claim_id": "CLM-1205",
+    "line_id": "CLM-1205-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1019
+  },
+  {
+    "claim_id": "CLM-1206",
+    "line_id": "CLM-1206-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 883
+  },
+  {
+    "claim_id": "CLM-1207",
+    "line_id": "CLM-1207-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 384
+  },
+  {
+    "claim_id": "CLM-1208",
+    "line_id": "CLM-1208-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 627
+  },
+  {
+    "claim_id": "CLM-1209",
+    "line_id": "CLM-1209-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 161
+  },
+  {
+    "claim_id": "CLM-1210",
+    "line_id": "CLM-1210-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1070
+  },
+  {
+    "claim_id": "CLM-1211",
+    "line_id": "CLM-1211-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1143
+  },
+  {
+    "claim_id": "CLM-1212",
+    "line_id": "CLM-1212-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 305
+  },
+  {
+    "claim_id": "CLM-1213",
+    "line_id": "CLM-1213-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1257
+  },
+  {
+    "claim_id": "CLM-1214",
+    "line_id": "CLM-1214-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 314
+  },
+  {
+    "claim_id": "CLM-1215",
+    "line_id": "CLM-1215-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1037
+  },
+  {
+    "claim_id": "CLM-1216",
+    "line_id": "CLM-1216-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 743
+  },
+  {
+    "claim_id": "CLM-1217",
+    "line_id": "CLM-1217-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 247
+  },
+  {
+    "claim_id": "CLM-1218",
+    "line_id": "CLM-1218-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 832
+  },
+  {
+    "claim_id": "CLM-1219",
+    "line_id": "CLM-1219-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1299
+  },
+  {
+    "claim_id": "CLM-1220",
+    "line_id": "CLM-1220-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1255
+  },
+  {
+    "claim_id": "CLM-1221",
+    "line_id": "CLM-1221-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 371
+  },
+  {
+    "claim_id": "CLM-1222",
+    "line_id": "CLM-1222-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 791
+  },
+  {
+    "claim_id": "CLM-1223",
+    "line_id": "CLM-1223-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 868
+  },
+  {
+    "claim_id": "CLM-1224",
+    "line_id": "CLM-1224-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1208
+  },
+  {
+    "claim_id": "CLM-1225",
+    "line_id": "CLM-1225-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 391
+  },
+  {
+    "claim_id": "CLM-1226",
+    "line_id": "CLM-1226-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 463
+  },
+  {
+    "claim_id": "CLM-1227",
+    "line_id": "CLM-1227-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1288
+  },
+  {
+    "claim_id": "CLM-1228",
+    "line_id": "CLM-1228-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1355
+  },
+  {
+    "claim_id": "CLM-1229",
+    "line_id": "CLM-1229-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 464
+  },
+  {
+    "claim_id": "CLM-1230",
+    "line_id": "CLM-1230-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 722
+  },
+  {
+    "claim_id": "CLM-1231",
+    "line_id": "CLM-1231-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 319
+  },
+  {
+    "claim_id": "CLM-1232",
+    "line_id": "CLM-1232-1",
+    "code": "94010",
+    "description": "Spirometry",
+    "allowed_amount": 316
+  },
+  {
+    "claim_id": "CLM-1233",
+    "line_id": "CLM-1233-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 591
+  },
+  {
+    "claim_id": "CLM-1234",
+    "line_id": "CLM-1234-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1305
+  },
+  {
+    "claim_id": "CLM-1235",
+    "line_id": "CLM-1235-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1251
+  },
+  {
+    "claim_id": "CLM-1236",
+    "line_id": "CLM-1236-1",
+    "code": "99214",
+    "description": "Respiratory infection visit",
+    "allowed_amount": 749
+  },
+  {
+    "claim_id": "CLM-1237",
+    "line_id": "CLM-1237-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1152
+  },
+  {
+    "claim_id": "CLM-1238",
+    "line_id": "CLM-1238-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 822
+  },
+  {
+    "claim_id": "CLM-1239",
+    "line_id": "CLM-1239-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 861
+  },
+  {
+    "claim_id": "CLM-1240",
+    "line_id": "CLM-1240-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 615
+  },
+  {
+    "claim_id": "CLM-1241",
+    "line_id": "CLM-1241-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1158
+  },
+  {
+    "claim_id": "CLM-1242",
+    "line_id": "CLM-1242-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 587
+  },
+  {
+    "claim_id": "CLM-1243",
+    "line_id": "CLM-1243-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1029
+  },
+  {
+    "claim_id": "CLM-1244",
+    "line_id": "CLM-1244-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 285
+  },
+  {
+    "claim_id": "CLM-1245",
+    "line_id": "CLM-1245-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1021
+  },
+  {
+    "claim_id": "CLM-1246",
+    "line_id": "CLM-1246-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1325
+  },
+  {
+    "claim_id": "CLM-1247",
+    "line_id": "CLM-1247-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1121
+  },
+  {
+    "claim_id": "CLM-1248",
+    "line_id": "CLM-1248-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 881
+  },
+  {
+    "claim_id": "CLM-1249",
+    "line_id": "CLM-1249-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 544
+  },
+  {
+    "claim_id": "CLM-1250",
+    "line_id": "CLM-1250-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1309
+  },
+  {
+    "claim_id": "CLM-1251",
+    "line_id": "CLM-1251-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1082
+  },
+  {
+    "claim_id": "CLM-1252",
+    "line_id": "CLM-1252-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 942
+  },
+  {
+    "claim_id": "CLM-1253",
+    "line_id": "CLM-1253-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 866
+  },
+  {
+    "claim_id": "CLM-1254",
+    "line_id": "CLM-1254-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 204
+  },
+  {
+    "claim_id": "CLM-1255",
+    "line_id": "CLM-1255-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 273
+  },
+  {
+    "claim_id": "CLM-1256",
+    "line_id": "CLM-1256-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 961
+  },
+  {
+    "claim_id": "CLM-1257",
+    "line_id": "CLM-1257-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 804
+  },
+  {
+    "claim_id": "CLM-1258",
+    "line_id": "CLM-1258-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 800
+  },
+  {
+    "claim_id": "CLM-1259",
+    "line_id": "CLM-1259-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 180
+  },
+  {
+    "claim_id": "CLM-1260",
+    "line_id": "CLM-1260-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 584
+  },
+  {
+    "claim_id": "CLM-1261",
+    "line_id": "CLM-1261-1",
+    "code": "94010",
+    "description": "Spirometry",
+    "allowed_amount": 1365
+  },
+  {
+    "claim_id": "CLM-1262",
+    "line_id": "CLM-1262-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 126
+  },
+  {
+    "claim_id": "CLM-1263",
+    "line_id": "CLM-1263-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 718
+  },
+  {
+    "claim_id": "CLM-1264",
+    "line_id": "CLM-1264-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1055
+  },
+  {
+    "claim_id": "CLM-1265",
+    "line_id": "CLM-1265-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1268
+  },
+  {
+    "claim_id": "CLM-1266",
+    "line_id": "CLM-1266-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 928
+  },
+  {
+    "claim_id": "CLM-1267",
+    "line_id": "CLM-1267-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 601
+  },
+  {
+    "claim_id": "CLM-1268",
+    "line_id": "CLM-1268-1",
+    "code": "94010",
+    "description": "Spirometry",
+    "allowed_amount": 1090
+  },
+  {
+    "claim_id": "CLM-1269",
+    "line_id": "CLM-1269-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 965
+  },
+  {
+    "claim_id": "CLM-1270",
+    "line_id": "CLM-1270-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 653
+  },
+  {
+    "claim_id": "CLM-1271",
+    "line_id": "CLM-1271-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1057
+  },
+  {
+    "claim_id": "CLM-1272",
+    "line_id": "CLM-1272-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 305
+  },
+  {
+    "claim_id": "CLM-1273",
+    "line_id": "CLM-1273-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1327
+  },
+  {
+    "claim_id": "CLM-1274",
+    "line_id": "CLM-1274-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1250
+  },
+  {
+    "claim_id": "CLM-1275",
+    "line_id": "CLM-1275-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1119
+  },
+  {
+    "claim_id": "CLM-1276",
+    "line_id": "CLM-1276-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 582
+  },
+  {
+    "claim_id": "CLM-1277",
+    "line_id": "CLM-1277-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 655
+  },
+  {
+    "claim_id": "CLM-1278",
+    "line_id": "CLM-1278-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 949
+  },
+  {
+    "claim_id": "CLM-1279",
+    "line_id": "CLM-1279-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 744
+  },
+  {
+    "claim_id": "CLM-1280",
+    "line_id": "CLM-1280-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 829
+  },
+  {
+    "claim_id": "CLM-1281",
+    "line_id": "CLM-1281-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1352
+  },
+  {
+    "claim_id": "CLM-1282",
+    "line_id": "CLM-1282-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 354
+  },
+  {
+    "claim_id": "CLM-1283",
+    "line_id": "CLM-1283-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 809
+  },
+  {
+    "claim_id": "CLM-1284",
+    "line_id": "CLM-1284-1",
+    "code": "99214",
+    "description": "Respiratory infection visit",
+    "allowed_amount": 1326
+  },
+  {
+    "claim_id": "CLM-1285",
+    "line_id": "CLM-1285-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 455
+  },
+  {
+    "claim_id": "CLM-1286",
+    "line_id": "CLM-1286-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1089
+  },
+  {
+    "claim_id": "CLM-1287",
+    "line_id": "CLM-1287-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 914
+  },
+  {
+    "claim_id": "CLM-1288",
+    "line_id": "CLM-1288-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 879
+  },
+  {
+    "claim_id": "CLM-1289",
+    "line_id": "CLM-1289-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 934
+  },
+  {
+    "claim_id": "CLM-1290",
+    "line_id": "CLM-1290-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 447
+  },
+  {
+    "claim_id": "CLM-1291",
+    "line_id": "CLM-1291-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 303
+  },
+  {
+    "claim_id": "CLM-1292",
+    "line_id": "CLM-1292-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1007
+  },
+  {
+    "claim_id": "CLM-1293",
+    "line_id": "CLM-1293-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 100
+  },
+  {
+    "claim_id": "CLM-1294",
+    "line_id": "CLM-1294-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 327
+  },
+  {
+    "claim_id": "CLM-1295",
+    "line_id": "CLM-1295-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 432
+  },
+  {
+    "claim_id": "CLM-1296",
+    "line_id": "CLM-1296-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 226
+  },
+  {
+    "claim_id": "CLM-1297",
+    "line_id": "CLM-1297-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 735
+  },
+  {
+    "claim_id": "CLM-1298",
+    "line_id": "CLM-1298-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 913
+  },
+  {
+    "claim_id": "CLM-1299",
+    "line_id": "CLM-1299-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1007
+  },
+  {
+    "claim_id": "CLM-1300",
+    "line_id": "CLM-1300-1",
+    "code": "94010",
+    "description": "Spirometry",
+    "allowed_amount": 574
+  },
+  {
+    "claim_id": "CLM-1301",
+    "line_id": "CLM-1301-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 137
+  },
+  {
+    "claim_id": "CLM-1302",
+    "line_id": "CLM-1302-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1265
+  },
+  {
+    "claim_id": "CLM-1303",
+    "line_id": "CLM-1303-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1160
+  },
+  {
+    "claim_id": "CLM-1304",
+    "line_id": "CLM-1304-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 126
+  },
+  {
+    "claim_id": "CLM-1305",
+    "line_id": "CLM-1305-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1148
+  },
+  {
+    "claim_id": "CLM-1306",
+    "line_id": "CLM-1306-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1370
+  },
+  {
+    "claim_id": "CLM-1307",
+    "line_id": "CLM-1307-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 405
+  },
+  {
+    "claim_id": "CLM-1308",
+    "line_id": "CLM-1308-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 879
+  },
+  {
+    "claim_id": "CLM-1309",
+    "line_id": "CLM-1309-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1031
+  },
+  {
+    "claim_id": "CLM-1310",
+    "line_id": "CLM-1310-1",
+    "code": "99214",
+    "description": "Respiratory infection visit",
+    "allowed_amount": 1295
+  },
+  {
+    "claim_id": "CLM-1311",
+    "line_id": "CLM-1311-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 983
+  },
+  {
+    "claim_id": "CLM-1312",
+    "line_id": "CLM-1312-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 988
+  },
+  {
+    "claim_id": "CLM-1313",
+    "line_id": "CLM-1313-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 311
+  },
+  {
+    "claim_id": "CLM-1314",
+    "line_id": "CLM-1314-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 252
+  },
+  {
+    "claim_id": "CLM-1315",
+    "line_id": "CLM-1315-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 132
+  },
+  {
+    "claim_id": "CLM-1316",
+    "line_id": "CLM-1316-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 739
+  },
+  {
+    "claim_id": "CLM-1317",
+    "line_id": "CLM-1317-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 556
+  },
+  {
+    "claim_id": "CLM-1318",
+    "line_id": "CLM-1318-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 447
+  },
+  {
+    "claim_id": "CLM-1319",
+    "line_id": "CLM-1319-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 374
+  },
+  {
+    "claim_id": "CLM-1320",
+    "line_id": "CLM-1320-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 239
+  },
+  {
+    "claim_id": "CLM-1321",
+    "line_id": "CLM-1321-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 322
+  },
+  {
+    "claim_id": "CLM-1322",
+    "line_id": "CLM-1322-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 902
+  },
+  {
+    "claim_id": "CLM-1323",
+    "line_id": "CLM-1323-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1011
+  },
+  {
+    "claim_id": "CLM-1324",
+    "line_id": "CLM-1324-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 733
+  },
+  {
+    "claim_id": "CLM-1325",
+    "line_id": "CLM-1325-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 665
+  },
+  {
+    "claim_id": "CLM-1326",
+    "line_id": "CLM-1326-1",
+    "code": "99214",
+    "description": "Respiratory infection visit",
+    "allowed_amount": 702
+  },
+  {
+    "claim_id": "CLM-1327",
+    "line_id": "CLM-1327-1",
+    "code": "94010",
+    "description": "Spirometry",
+    "allowed_amount": 822
+  },
+  {
+    "claim_id": "CLM-1328",
+    "line_id": "CLM-1328-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 728
+  },
+  {
+    "claim_id": "CLM-1329",
+    "line_id": "CLM-1329-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 236
+  },
+  {
+    "claim_id": "CLM-1330",
+    "line_id": "CLM-1330-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 599
+  },
+  {
+    "claim_id": "CLM-1331",
+    "line_id": "CLM-1331-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 391
+  },
+  {
+    "claim_id": "CLM-1332",
+    "line_id": "CLM-1332-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 151
+  },
+  {
+    "claim_id": "CLM-1333",
+    "line_id": "CLM-1333-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 510
+  },
+  {
+    "claim_id": "CLM-1334",
+    "line_id": "CLM-1334-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1337
+  },
+  {
+    "claim_id": "CLM-1335",
+    "line_id": "CLM-1335-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 447
+  },
+  {
+    "claim_id": "CLM-1336",
+    "line_id": "CLM-1336-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1214
+  },
+  {
+    "claim_id": "CLM-1337",
+    "line_id": "CLM-1337-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1177
+  },
+  {
+    "claim_id": "CLM-1338",
+    "line_id": "CLM-1338-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 674
+  },
+  {
+    "claim_id": "CLM-1339",
+    "line_id": "CLM-1339-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 221
+  },
+  {
+    "claim_id": "CLM-1340",
+    "line_id": "CLM-1340-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 132
+  },
+  {
+    "claim_id": "CLM-1341",
+    "line_id": "CLM-1341-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 746
+  },
+  {
+    "claim_id": "CLM-1342",
+    "line_id": "CLM-1342-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 506
+  },
+  {
+    "claim_id": "CLM-1343",
+    "line_id": "CLM-1343-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1388
+  },
+  {
+    "claim_id": "CLM-1344",
+    "line_id": "CLM-1344-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 654
+  },
+  {
+    "claim_id": "CLM-1345",
+    "line_id": "CLM-1345-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 945
+  },
+  {
+    "claim_id": "CLM-1346",
+    "line_id": "CLM-1346-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 992
+  },
+  {
+    "claim_id": "CLM-1347",
+    "line_id": "CLM-1347-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1352
+  },
+  {
+    "claim_id": "CLM-1348",
+    "line_id": "CLM-1348-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1066
+  },
+  {
+    "claim_id": "CLM-1349",
+    "line_id": "CLM-1349-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 99
+  },
+  {
+    "claim_id": "CLM-1350",
+    "line_id": "CLM-1350-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1097
+  },
+  {
+    "claim_id": "CLM-1351",
+    "line_id": "CLM-1351-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 282
+  },
+  {
+    "claim_id": "CLM-1352",
+    "line_id": "CLM-1352-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 96
+  },
+  {
+    "claim_id": "CLM-1353",
+    "line_id": "CLM-1353-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 456
+  },
+  {
+    "claim_id": "CLM-1354",
+    "line_id": "CLM-1354-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 229
+  },
+  {
+    "claim_id": "CLM-1355",
+    "line_id": "CLM-1355-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 851
+  },
+  {
+    "claim_id": "CLM-1356",
+    "line_id": "CLM-1356-1",
+    "code": "94010",
+    "description": "Spirometry",
+    "allowed_amount": 1029
+  },
+  {
+    "claim_id": "CLM-1357",
+    "line_id": "CLM-1357-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 741
+  },
+  {
+    "claim_id": "CLM-1358",
+    "line_id": "CLM-1358-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 575
+  },
+  {
+    "claim_id": "CLM-1359",
+    "line_id": "CLM-1359-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 95
+  },
+  {
+    "claim_id": "CLM-1360",
+    "line_id": "CLM-1360-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 443
+  },
+  {
+    "claim_id": "CLM-1361",
+    "line_id": "CLM-1361-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 135
+  },
+  {
+    "claim_id": "CLM-1362",
+    "line_id": "CLM-1362-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 513
+  },
+  {
+    "claim_id": "CLM-1363",
+    "line_id": "CLM-1363-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1035
+  },
+  {
+    "claim_id": "CLM-1364",
+    "line_id": "CLM-1364-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 969
+  },
+  {
+    "claim_id": "CLM-1365",
+    "line_id": "CLM-1365-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 640
+  },
+  {
+    "claim_id": "CLM-1366",
+    "line_id": "CLM-1366-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1073
+  },
+  {
+    "claim_id": "CLM-1367",
+    "line_id": "CLM-1367-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1084
+  },
+  {
+    "claim_id": "CLM-1368",
+    "line_id": "CLM-1368-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 516
+  },
+  {
+    "claim_id": "CLM-1369",
+    "line_id": "CLM-1369-1",
+    "code": "99214",
+    "description": "Respiratory infection visit",
+    "allowed_amount": 1369
+  },
+  {
+    "claim_id": "CLM-1370",
+    "line_id": "CLM-1370-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 416
+  },
+  {
+    "claim_id": "CLM-1371",
+    "line_id": "CLM-1371-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1142
+  },
+  {
+    "claim_id": "CLM-1372",
+    "line_id": "CLM-1372-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 408
+  },
+  {
+    "claim_id": "CLM-1373",
+    "line_id": "CLM-1373-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1394
+  },
+  {
+    "claim_id": "CLM-1374",
+    "line_id": "CLM-1374-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 634
+  },
+  {
+    "claim_id": "CLM-1375",
+    "line_id": "CLM-1375-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1221
+  },
+  {
+    "claim_id": "CLM-1376",
+    "line_id": "CLM-1376-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 1327
+  },
+  {
+    "claim_id": "CLM-1377",
+    "line_id": "CLM-1377-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 364
+  },
+  {
+    "claim_id": "CLM-1378",
+    "line_id": "CLM-1378-1",
+    "code": "99214",
+    "description": "Office visit",
+    "allowed_amount": 642
+  }
+]

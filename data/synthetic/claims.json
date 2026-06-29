@@ -1,0 +1,5314 @@
+[
+  {
+    "claim_id": "CLM-1001",
+    "member_id": "M-1001",
+    "service_date": "2026-05-09",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1421,
+    "status": "paid",
+    "denial_risk": 0.29,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1002",
+    "member_id": "M-1002",
+    "service_date": "2026-01-20",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1109,
+    "status": "paid",
+    "denial_risk": 0.12,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1003",
+    "member_id": "M-1002",
+    "service_date": "2026-01-23",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 183,
+    "status": "paid",
+    "denial_risk": 0.2,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1004",
+    "member_id": "M-1002",
+    "service_date": "2026-04-07",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1233,
+    "status": "paid",
+    "denial_risk": 0.41,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1005",
+    "member_id": "M-1002",
+    "service_date": "2026-06-10",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1439,
+    "status": "paid",
+    "denial_risk": 0.12,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1006",
+    "member_id": "M-1002",
+    "service_date": "2026-01-04",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1269,
+    "status": "paid",
+    "denial_risk": 0.24,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1007",
+    "member_id": "M-1002",
+    "service_date": "2026-01-02",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 987,
+    "status": "paid",
+    "denial_risk": 0.36,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1008",
+    "member_id": "M-1003",
+    "service_date": "2026-06-06",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "GLP-1 initiation",
+    "amount": 323,
+    "status": "pended",
+    "denial_risk": 0.84,
+    "missing_documentation": [
+      "Prior authorization",
+      "Recent HbA1c lab",
+      "Step therapy documentation"
+    ],
+    "policy_ids": [
+      "POL-PA-GLP1"
+    ]
+  },
+  {
+    "claim_id": "CLM-1009",
+    "member_id": "M-1003",
+    "service_date": "2026-02-01",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1582,
+    "status": "paid",
+    "denial_risk": 0.12,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1010",
+    "member_id": "M-1003",
+    "service_date": "2026-04-27",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 877,
+    "status": "paid",
+    "denial_risk": 0.1,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1011",
+    "member_id": "M-1003",
+    "service_date": "2026-05-29",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1233,
+    "status": "paid",
+    "denial_risk": 0.35,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1012",
+    "member_id": "M-1004",
+    "service_date": "2026-06-01",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 393,
+    "status": "paid",
+    "denial_risk": 0.31,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1013",
+    "member_id": "M-1005",
+    "service_date": "2026-06-10",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 431,
+    "status": "paid",
+    "denial_risk": 0.32,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1014",
+    "member_id": "M-1005",
+    "service_date": "2026-05-24",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1391,
+    "status": "paid",
+    "denial_risk": 0.08,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1015",
+    "member_id": "M-1005",
+    "service_date": "2026-05-06",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1790,
+    "status": "paid",
+    "denial_risk": 0.09,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1016",
+    "member_id": "M-1005",
+    "service_date": "2026-06-17",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1774,
+    "status": "paid",
+    "denial_risk": 0.09,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1017",
+    "member_id": "M-1006",
+    "service_date": "2026-03-05",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1237,
+    "status": "paid",
+    "denial_risk": 0.37,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1018",
+    "member_id": "M-1007",
+    "service_date": "2026-01-20",
+    "provider": "Summit Endocrinology",
+    "procedure": "Respiratory infection visit",
+    "amount": 1144,
+    "status": "paid",
+    "denial_risk": 0.13,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1019",
+    "member_id": "M-1008",
+    "service_date": "2026-04-20",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 782,
+    "status": "paid",
+    "denial_risk": 0.13,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1020",
+    "member_id": "M-1008",
+    "service_date": "2026-03-31",
+    "provider": "North Valley Clinic",
+    "procedure": "Spirometry",
+    "amount": 1011,
+    "status": "paid",
+    "denial_risk": 0.15,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PULM-SPIRO"
+    ]
+  },
+  {
+    "claim_id": "CLM-1021",
+    "member_id": "M-1008",
+    "service_date": "2026-02-14",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 610,
+    "status": "paid",
+    "denial_risk": 0.15,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1022",
+    "member_id": "M-1008",
+    "service_date": "2026-05-27",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 332,
+    "status": "paid",
+    "denial_risk": 0.26,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1023",
+    "member_id": "M-1008",
+    "service_date": "2026-05-27",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 412,
+    "status": "paid",
+    "denial_risk": 0.15,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1024",
+    "member_id": "M-1008",
+    "service_date": "2026-06-12",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1393,
+    "status": "paid",
+    "denial_risk": 0.33,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1025",
+    "member_id": "M-1009",
+    "service_date": "2026-04-23",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 241,
+    "status": "paid",
+    "denial_risk": 0.2,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1026",
+    "member_id": "M-1009",
+    "service_date": "2026-04-16",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 974,
+    "status": "paid",
+    "denial_risk": 0.09,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1027",
+    "member_id": "M-1009",
+    "service_date": "2026-03-01",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1798,
+    "status": "paid",
+    "denial_risk": 0.31,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1028",
+    "member_id": "M-1009",
+    "service_date": "2026-03-30",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 644,
+    "status": "paid",
+    "denial_risk": 0.33,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1029",
+    "member_id": "M-1010",
+    "service_date": "2026-04-04",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 501,
+    "status": "paid",
+    "denial_risk": 0.42,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1030",
+    "member_id": "M-1010",
+    "service_date": "2026-04-26",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1283,
+    "status": "paid",
+    "denial_risk": 0.18,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1031",
+    "member_id": "M-1010",
+    "service_date": "2026-03-06",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1541,
+    "status": "paid",
+    "denial_risk": 0.25,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1032",
+    "member_id": "M-1010",
+    "service_date": "2026-04-01",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1681,
+    "status": "paid",
+    "denial_risk": 0.09,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1033",
+    "member_id": "M-1011",
+    "service_date": "2026-05-18",
+    "provider": "Cedar Primary Care",
+    "procedure": "Respiratory infection visit",
+    "amount": 896,
+    "status": "paid",
+    "denial_risk": 0.4,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1034",
+    "member_id": "M-1011",
+    "service_date": "2026-03-23",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 362,
+    "status": "paid",
+    "denial_risk": 0.34,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1035",
+    "member_id": "M-1011",
+    "service_date": "2026-01-08",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 509,
+    "status": "paid",
+    "denial_risk": 0.21,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1036",
+    "member_id": "M-1011",
+    "service_date": "2026-01-20",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 655,
+    "status": "paid",
+    "denial_risk": 0.17,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1037",
+    "member_id": "M-1011",
+    "service_date": "2026-02-16",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1451,
+    "status": "paid",
+    "denial_risk": 0.3,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1038",
+    "member_id": "M-1011",
+    "service_date": "2026-02-22",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 574,
+    "status": "paid",
+    "denial_risk": 0.21,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1039",
+    "member_id": "M-1012",
+    "service_date": "2026-02-22",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 340,
+    "status": "paid",
+    "denial_risk": 0.34,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1040",
+    "member_id": "M-1012",
+    "service_date": "2026-04-25",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1556,
+    "status": "paid",
+    "denial_risk": 0.24,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1041",
+    "member_id": "M-1012",
+    "service_date": "2026-02-18",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 542,
+    "status": "paid",
+    "denial_risk": 0.33,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1042",
+    "member_id": "M-1013",
+    "service_date": "2026-01-26",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1061,
+    "status": "paid",
+    "denial_risk": 0.3,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1043",
+    "member_id": "M-1014",
+    "service_date": "2026-01-13",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1717,
+    "status": "paid",
+    "denial_risk": 0.11,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1044",
+    "member_id": "M-1014",
+    "service_date": "2026-01-31",
+    "provider": "Lakeview Medical",
+    "procedure": "GLP-1 initiation",
+    "amount": 933,
+    "status": "pended",
+    "denial_risk": 0.84,
+    "missing_documentation": [
+      "Prior authorization",
+      "Recent HbA1c lab",
+      "Step therapy documentation"
+    ],
+    "policy_ids": [
+      "POL-PA-GLP1"
+    ]
+  },
+  {
+    "claim_id": "CLM-1045",
+    "member_id": "M-1014",
+    "service_date": "2026-06-04",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1042,
+    "status": "paid",
+    "denial_risk": 0.25,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1046",
+    "member_id": "M-1015",
+    "service_date": "2026-01-08",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1587,
+    "status": "paid",
+    "denial_risk": 0.2,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1047",
+    "member_id": "M-1015",
+    "service_date": "2025-12-31",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 812,
+    "status": "paid",
+    "denial_risk": 0.31,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1048",
+    "member_id": "M-1015",
+    "service_date": "2026-06-19",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 863,
+    "status": "paid",
+    "denial_risk": 0.32,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1049",
+    "member_id": "M-1015",
+    "service_date": "2026-03-24",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 871,
+    "status": "paid",
+    "denial_risk": 0.33,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1050",
+    "member_id": "M-1015",
+    "service_date": "2026-02-10",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 240,
+    "status": "paid",
+    "denial_risk": 0.28,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1051",
+    "member_id": "M-1015",
+    "service_date": "2026-03-08",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1258,
+    "status": "paid",
+    "denial_risk": 0.25,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1052",
+    "member_id": "M-1016",
+    "service_date": "2026-03-17",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 924,
+    "status": "paid",
+    "denial_risk": 0.36,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1053",
+    "member_id": "M-1016",
+    "service_date": "2026-04-03",
+    "provider": "Summit Endocrinology",
+    "procedure": "Spirometry",
+    "amount": 970,
+    "status": "paid",
+    "denial_risk": 0.1,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PULM-SPIRO"
+    ]
+  },
+  {
+    "claim_id": "CLM-1054",
+    "member_id": "M-1016",
+    "service_date": "2026-01-24",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 934,
+    "status": "paid",
+    "denial_risk": 0.18,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1055",
+    "member_id": "M-1016",
+    "service_date": "2026-02-26",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 680,
+    "status": "paid",
+    "denial_risk": 0.15,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1056",
+    "member_id": "M-1016",
+    "service_date": "2026-04-20",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 424,
+    "status": "paid",
+    "denial_risk": 0.34,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1057",
+    "member_id": "M-1016",
+    "service_date": "2026-01-28",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 168,
+    "status": "paid",
+    "denial_risk": 0.21,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1058",
+    "member_id": "M-1016",
+    "service_date": "2026-01-13",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 333,
+    "status": "paid",
+    "denial_risk": 0.26,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1059",
+    "member_id": "M-1017",
+    "service_date": "2026-02-14",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 706,
+    "status": "paid",
+    "denial_risk": 0.22,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1060",
+    "member_id": "M-1017",
+    "service_date": "2026-01-12",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1219,
+    "status": "paid",
+    "denial_risk": 0.29,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1061",
+    "member_id": "M-1017",
+    "service_date": "2026-04-11",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1085,
+    "status": "paid",
+    "denial_risk": 0.4,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1062",
+    "member_id": "M-1018",
+    "service_date": "2026-02-19",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1510,
+    "status": "paid",
+    "denial_risk": 0.28,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1063",
+    "member_id": "M-1018",
+    "service_date": "2026-01-17",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 868,
+    "status": "paid",
+    "denial_risk": 0.1,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1064",
+    "member_id": "M-1018",
+    "service_date": "2026-05-03",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1107,
+    "status": "paid",
+    "denial_risk": 0.39,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1065",
+    "member_id": "M-1018",
+    "service_date": "2026-02-15",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 641,
+    "status": "paid",
+    "denial_risk": 0.36,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1066",
+    "member_id": "M-1018",
+    "service_date": "2026-03-04",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1642,
+    "status": "paid",
+    "denial_risk": 0.25,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1067",
+    "member_id": "M-1019",
+    "service_date": "2026-03-20",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 919,
+    "status": "paid",
+    "denial_risk": 0.2,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1068",
+    "member_id": "M-1019",
+    "service_date": "2026-06-09",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 284,
+    "status": "paid",
+    "denial_risk": 0.29,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1069",
+    "member_id": "M-1019",
+    "service_date": "2026-03-23",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1293,
+    "status": "paid",
+    "denial_risk": 0.3,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1070",
+    "member_id": "M-1019",
+    "service_date": "2026-06-21",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 664,
+    "status": "paid",
+    "denial_risk": 0.24,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1071",
+    "member_id": "M-1019",
+    "service_date": "2026-04-15",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 363,
+    "status": "paid",
+    "denial_risk": 0.26,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1072",
+    "member_id": "M-1019",
+    "service_date": "2026-02-22",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 859,
+    "status": "paid",
+    "denial_risk": 0.34,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1073",
+    "member_id": "M-1020",
+    "service_date": "2026-01-13",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 835,
+    "status": "paid",
+    "denial_risk": 0.28,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1074",
+    "member_id": "M-1020",
+    "service_date": "2026-03-19",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 244,
+    "status": "paid",
+    "denial_risk": 0.4,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1075",
+    "member_id": "M-1020",
+    "service_date": "2026-03-16",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 601,
+    "status": "paid",
+    "denial_risk": 0.32,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1076",
+    "member_id": "M-1021",
+    "service_date": "2026-05-26",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1733,
+    "status": "paid",
+    "denial_risk": 0.18,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1077",
+    "member_id": "M-1021",
+    "service_date": "2026-01-24",
+    "provider": "Summit Endocrinology",
+    "procedure": "GLP-1 initiation",
+    "amount": 470,
+    "status": "pended",
+    "denial_risk": 0.84,
+    "missing_documentation": [
+      "Prior authorization",
+      "Recent HbA1c lab",
+      "Step therapy documentation"
+    ],
+    "policy_ids": [
+      "POL-PA-GLP1"
+    ]
+  },
+  {
+    "claim_id": "CLM-1078",
+    "member_id": "M-1021",
+    "service_date": "2026-05-26",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 169,
+    "status": "paid",
+    "denial_risk": 0.09,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1079",
+    "member_id": "M-1021",
+    "service_date": "2026-01-23",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1515,
+    "status": "paid",
+    "denial_risk": 0.39,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1080",
+    "member_id": "M-1021",
+    "service_date": "2026-03-27",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1731,
+    "status": "paid",
+    "denial_risk": 0.28,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1081",
+    "member_id": "M-1022",
+    "service_date": "2026-06-03",
+    "provider": "Summit Endocrinology",
+    "procedure": "Respiratory infection visit",
+    "amount": 1493,
+    "status": "paid",
+    "denial_risk": 0.18,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1082",
+    "member_id": "M-1022",
+    "service_date": "2025-12-30",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1482,
+    "status": "paid",
+    "denial_risk": 0.38,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1083",
+    "member_id": "M-1022",
+    "service_date": "2026-06-21",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 244,
+    "status": "paid",
+    "denial_risk": 0.22,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1084",
+    "member_id": "M-1022",
+    "service_date": "2026-04-16",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1325,
+    "status": "paid",
+    "denial_risk": 0.2,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1085",
+    "member_id": "M-1022",
+    "service_date": "2026-03-13",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1312,
+    "status": "paid",
+    "denial_risk": 0.08,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1086",
+    "member_id": "M-1023",
+    "service_date": "2026-04-28",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1702,
+    "status": "paid",
+    "denial_risk": 0.18,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1087",
+    "member_id": "M-1023",
+    "service_date": "2026-04-15",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1712,
+    "status": "paid",
+    "denial_risk": 0.3,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1088",
+    "member_id": "M-1023",
+    "service_date": "2026-03-21",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 612,
+    "status": "paid",
+    "denial_risk": 0.28,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1089",
+    "member_id": "M-1023",
+    "service_date": "2026-06-09",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1351,
+    "status": "paid",
+    "denial_risk": 0.12,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1090",
+    "member_id": "M-1024",
+    "service_date": "2026-05-30",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1501,
+    "status": "paid",
+    "denial_risk": 0.29,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1091",
+    "member_id": "M-1024",
+    "service_date": "2026-03-27",
+    "provider": "Lakeview Medical",
+    "procedure": "Spirometry",
+    "amount": 1174,
+    "status": "paid",
+    "denial_risk": 0.4,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PULM-SPIRO"
+    ]
+  },
+  {
+    "claim_id": "CLM-1092",
+    "member_id": "M-1025",
+    "service_date": "2026-06-04",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1526,
+    "status": "paid",
+    "denial_risk": 0.25,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1093",
+    "member_id": "M-1025",
+    "service_date": "2026-06-02",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 243,
+    "status": "paid",
+    "denial_risk": 0.17,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1094",
+    "member_id": "M-1025",
+    "service_date": "2026-02-13",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1432,
+    "status": "paid",
+    "denial_risk": 0.21,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1095",
+    "member_id": "M-1025",
+    "service_date": "2026-02-09",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 210,
+    "status": "paid",
+    "denial_risk": 0.26,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1096",
+    "member_id": "M-1026",
+    "service_date": "2026-03-26",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1504,
+    "status": "paid",
+    "denial_risk": 0.41,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1097",
+    "member_id": "M-1026",
+    "service_date": "2026-02-16",
+    "provider": "Summit Endocrinology",
+    "procedure": "Spirometry",
+    "amount": 347,
+    "status": "paid",
+    "denial_risk": 0.17,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PULM-SPIRO"
+    ]
+  },
+  {
+    "claim_id": "CLM-1098",
+    "member_id": "M-1026",
+    "service_date": "2026-01-24",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1693,
+    "status": "paid",
+    "denial_risk": 0.18,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1099",
+    "member_id": "M-1027",
+    "service_date": "2026-03-19",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1461,
+    "status": "paid",
+    "denial_risk": 0.24,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1100",
+    "member_id": "M-1027",
+    "service_date": "2026-04-21",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 696,
+    "status": "paid",
+    "denial_risk": 0.27,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1101",
+    "member_id": "M-1027",
+    "service_date": "2025-12-28",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1409,
+    "status": "paid",
+    "denial_risk": 0.17,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1102",
+    "member_id": "M-1027",
+    "service_date": "2026-04-28",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1632,
+    "status": "paid",
+    "denial_risk": 0.15,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1103",
+    "member_id": "M-1027",
+    "service_date": "2026-03-17",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1035,
+    "status": "paid",
+    "denial_risk": 0.2,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1104",
+    "member_id": "M-1027",
+    "service_date": "2026-01-07",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1460,
+    "status": "paid",
+    "denial_risk": 0.33,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1105",
+    "member_id": "M-1028",
+    "service_date": "2026-05-18",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1051,
+    "status": "paid",
+    "denial_risk": 0.13,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1106",
+    "member_id": "M-1028",
+    "service_date": "2026-01-24",
+    "provider": "North Valley Clinic",
+    "procedure": "GLP-1 initiation",
+    "amount": 1439,
+    "status": "paid",
+    "denial_risk": 0.12,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PA-GLP1"
+    ]
+  },
+  {
+    "claim_id": "CLM-1107",
+    "member_id": "M-1028",
+    "service_date": "2026-06-06",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 523,
+    "status": "paid",
+    "denial_risk": 0.24,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1108",
+    "member_id": "M-1029",
+    "service_date": "2026-05-16",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 877,
+    "status": "paid",
+    "denial_risk": 0.38,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1109",
+    "member_id": "M-1029",
+    "service_date": "2026-02-02",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1069,
+    "status": "paid",
+    "denial_risk": 0.13,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1110",
+    "member_id": "M-1029",
+    "service_date": "2026-01-24",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1528,
+    "status": "paid",
+    "denial_risk": 0.26,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1111",
+    "member_id": "M-1030",
+    "service_date": "2026-05-23",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 928,
+    "status": "paid",
+    "denial_risk": 0.09,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1112",
+    "member_id": "M-1030",
+    "service_date": "2026-05-04",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1041,
+    "status": "paid",
+    "denial_risk": 0.24,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1113",
+    "member_id": "M-1030",
+    "service_date": "2026-04-30",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 437,
+    "status": "paid",
+    "denial_risk": 0.29,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1114",
+    "member_id": "M-1030",
+    "service_date": "2026-01-22",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 608,
+    "status": "paid",
+    "denial_risk": 0.18,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1115",
+    "member_id": "M-1030",
+    "service_date": "2026-02-26",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1100,
+    "status": "paid",
+    "denial_risk": 0.32,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1116",
+    "member_id": "M-1030",
+    "service_date": "2026-03-25",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1405,
+    "status": "paid",
+    "denial_risk": 0.34,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1117",
+    "member_id": "M-1031",
+    "service_date": "2026-03-25",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 632,
+    "status": "paid",
+    "denial_risk": 0.42,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1118",
+    "member_id": "M-1031",
+    "service_date": "2026-06-04",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 920,
+    "status": "paid",
+    "denial_risk": 0.35,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1119",
+    "member_id": "M-1031",
+    "service_date": "2026-04-08",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1749,
+    "status": "paid",
+    "denial_risk": 0.38,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1120",
+    "member_id": "M-1031",
+    "service_date": "2026-03-29",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1056,
+    "status": "paid",
+    "denial_risk": 0.23,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1121",
+    "member_id": "M-1032",
+    "service_date": "2026-01-25",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 763,
+    "status": "paid",
+    "denial_risk": 0.18,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1122",
+    "member_id": "M-1032",
+    "service_date": "2026-03-02",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Spirometry",
+    "amount": 526,
+    "status": "paid",
+    "denial_risk": 0.25,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PULM-SPIRO"
+    ]
+  },
+  {
+    "claim_id": "CLM-1123",
+    "member_id": "M-1033",
+    "service_date": "2026-03-21",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Respiratory infection visit",
+    "amount": 808,
+    "status": "paid",
+    "denial_risk": 0.18,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1124",
+    "member_id": "M-1034",
+    "service_date": "2026-06-10",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 849,
+    "status": "paid",
+    "denial_risk": 0.22,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1125",
+    "member_id": "M-1034",
+    "service_date": "2026-04-10",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1025,
+    "status": "paid",
+    "denial_risk": 0.14,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1126",
+    "member_id": "M-1034",
+    "service_date": "2026-02-25",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 667,
+    "status": "paid",
+    "denial_risk": 0.29,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1127",
+    "member_id": "M-1034",
+    "service_date": "2026-02-11",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1064,
+    "status": "paid",
+    "denial_risk": 0.08,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1128",
+    "member_id": "M-1034",
+    "service_date": "2026-05-13",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 188,
+    "status": "paid",
+    "denial_risk": 0.29,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1129",
+    "member_id": "M-1034",
+    "service_date": "2026-03-14",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1280,
+    "status": "paid",
+    "denial_risk": 0.28,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1130",
+    "member_id": "M-1034",
+    "service_date": "2026-05-30",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1166,
+    "status": "paid",
+    "denial_risk": 0.24,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1131",
+    "member_id": "M-1035",
+    "service_date": "2026-01-28",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 856,
+    "status": "paid",
+    "denial_risk": 0.33,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1132",
+    "member_id": "M-1035",
+    "service_date": "2026-03-17",
+    "provider": "Cedar Primary Care",
+    "procedure": "GLP-1 initiation",
+    "amount": 516,
+    "status": "pended",
+    "denial_risk": 0.84,
+    "missing_documentation": [
+      "Prior authorization",
+      "Recent HbA1c lab",
+      "Step therapy documentation"
+    ],
+    "policy_ids": [
+      "POL-PA-GLP1"
+    ]
+  },
+  {
+    "claim_id": "CLM-1133",
+    "member_id": "M-1035",
+    "service_date": "2026-05-21",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 975,
+    "status": "paid",
+    "denial_risk": 0.1,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1134",
+    "member_id": "M-1035",
+    "service_date": "2026-04-18",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 236,
+    "status": "paid",
+    "denial_risk": 0.33,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1135",
+    "member_id": "M-1035",
+    "service_date": "2026-01-05",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 930,
+    "status": "paid",
+    "denial_risk": 0.24,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1136",
+    "member_id": "M-1035",
+    "service_date": "2026-06-13",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1770,
+    "status": "paid",
+    "denial_risk": 0.13,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1137",
+    "member_id": "M-1036",
+    "service_date": "2026-06-12",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1404,
+    "status": "paid",
+    "denial_risk": 0.11,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1138",
+    "member_id": "M-1036",
+    "service_date": "2026-03-10",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 510,
+    "status": "paid",
+    "denial_risk": 0.26,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1139",
+    "member_id": "M-1037",
+    "service_date": "2026-06-05",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 497,
+    "status": "paid",
+    "denial_risk": 0.41,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1140",
+    "member_id": "M-1037",
+    "service_date": "2026-05-15",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 687,
+    "status": "paid",
+    "denial_risk": 0.13,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1141",
+    "member_id": "M-1037",
+    "service_date": "2026-01-04",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 534,
+    "status": "paid",
+    "denial_risk": 0.35,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1142",
+    "member_id": "M-1038",
+    "service_date": "2026-01-11",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 728,
+    "status": "paid",
+    "denial_risk": 0.26,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1143",
+    "member_id": "M-1038",
+    "service_date": "2026-06-12",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 390,
+    "status": "paid",
+    "denial_risk": 0.32,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1144",
+    "member_id": "M-1038",
+    "service_date": "2026-03-15",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1090,
+    "status": "paid",
+    "denial_risk": 0.18,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1145",
+    "member_id": "M-1038",
+    "service_date": "2026-04-15",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1723,
+    "status": "paid",
+    "denial_risk": 0.32,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1146",
+    "member_id": "M-1038",
+    "service_date": "2026-01-07",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1073,
+    "status": "paid",
+    "denial_risk": 0.17,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1147",
+    "member_id": "M-1038",
+    "service_date": "2026-05-20",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 919,
+    "status": "paid",
+    "denial_risk": 0.23,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1148",
+    "member_id": "M-1039",
+    "service_date": "2026-01-29",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1296,
+    "status": "paid",
+    "denial_risk": 0.2,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1149",
+    "member_id": "M-1039",
+    "service_date": "2026-05-08",
+    "provider": "Lakeview Medical",
+    "procedure": "Spirometry",
+    "amount": 240,
+    "status": "paid",
+    "denial_risk": 0.38,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PULM-SPIRO"
+    ]
+  },
+  {
+    "claim_id": "CLM-1150",
+    "member_id": "M-1040",
+    "service_date": "2026-03-17",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1320,
+    "status": "paid",
+    "denial_risk": 0.29,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1151",
+    "member_id": "M-1040",
+    "service_date": "2026-03-18",
+    "provider": "Cedar Primary Care",
+    "procedure": "Spirometry",
+    "amount": 1281,
+    "status": "paid",
+    "denial_risk": 0.23,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PULM-SPIRO"
+    ]
+  },
+  {
+    "claim_id": "CLM-1152",
+    "member_id": "M-1040",
+    "service_date": "2026-03-16",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 177,
+    "status": "paid",
+    "denial_risk": 0.1,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1153",
+    "member_id": "M-1041",
+    "service_date": "2026-02-15",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 507,
+    "status": "paid",
+    "denial_risk": 0.22,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1154",
+    "member_id": "M-1042",
+    "service_date": "2026-03-01",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1432,
+    "status": "paid",
+    "denial_risk": 0.3,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1155",
+    "member_id": "M-1042",
+    "service_date": "2025-12-31",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "GLP-1 initiation",
+    "amount": 1224,
+    "status": "pended",
+    "denial_risk": 0.84,
+    "missing_documentation": [
+      "Prior authorization",
+      "Recent HbA1c lab",
+      "Step therapy documentation"
+    ],
+    "policy_ids": [
+      "POL-PA-GLP1"
+    ]
+  },
+  {
+    "claim_id": "CLM-1156",
+    "member_id": "M-1042",
+    "service_date": "2026-02-09",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1651,
+    "status": "paid",
+    "denial_risk": 0.32,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1157",
+    "member_id": "M-1043",
+    "service_date": "2026-01-25",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 135,
+    "status": "paid",
+    "denial_risk": 0.41,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1158",
+    "member_id": "M-1043",
+    "service_date": "2026-04-12",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1362,
+    "status": "paid",
+    "denial_risk": 0.13,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1159",
+    "member_id": "M-1043",
+    "service_date": "2026-02-01",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1055,
+    "status": "paid",
+    "denial_risk": 0.23,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1160",
+    "member_id": "M-1043",
+    "service_date": "2026-04-30",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1466,
+    "status": "paid",
+    "denial_risk": 0.14,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1161",
+    "member_id": "M-1043",
+    "service_date": "2026-03-01",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 314,
+    "status": "paid",
+    "denial_risk": 0.36,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1162",
+    "member_id": "M-1044",
+    "service_date": "2026-01-16",
+    "provider": "North Valley Clinic",
+    "procedure": "Respiratory infection visit",
+    "amount": 410,
+    "status": "paid",
+    "denial_risk": 0.34,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1163",
+    "member_id": "M-1044",
+    "service_date": "2026-03-07",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1266,
+    "status": "paid",
+    "denial_risk": 0.39,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1164",
+    "member_id": "M-1044",
+    "service_date": "2026-01-29",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 383,
+    "status": "paid",
+    "denial_risk": 0.12,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1165",
+    "member_id": "M-1045",
+    "service_date": "2026-01-16",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 545,
+    "status": "paid",
+    "denial_risk": 0.31,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1166",
+    "member_id": "M-1045",
+    "service_date": "2026-06-08",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1242,
+    "status": "paid",
+    "denial_risk": 0.25,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1167",
+    "member_id": "M-1045",
+    "service_date": "2026-01-28",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1502,
+    "status": "paid",
+    "denial_risk": 0.21,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1168",
+    "member_id": "M-1045",
+    "service_date": "2026-05-06",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1201,
+    "status": "paid",
+    "denial_risk": 0.09,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1169",
+    "member_id": "M-1045",
+    "service_date": "2026-06-05",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1709,
+    "status": "paid",
+    "denial_risk": 0.21,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1170",
+    "member_id": "M-1045",
+    "service_date": "2026-03-30",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1745,
+    "status": "paid",
+    "denial_risk": 0.39,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1171",
+    "member_id": "M-1045",
+    "service_date": "2026-04-14",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 826,
+    "status": "paid",
+    "denial_risk": 0.37,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1172",
+    "member_id": "M-1046",
+    "service_date": "2026-01-17",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1406,
+    "status": "paid",
+    "denial_risk": 0.2,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1173",
+    "member_id": "M-1046",
+    "service_date": "2026-02-16",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 415,
+    "status": "paid",
+    "denial_risk": 0.39,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1174",
+    "member_id": "M-1047",
+    "service_date": "2025-12-28",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 294,
+    "status": "paid",
+    "denial_risk": 0.13,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1175",
+    "member_id": "M-1048",
+    "service_date": "2026-05-23",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1340,
+    "status": "paid",
+    "denial_risk": 0.37,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1176",
+    "member_id": "M-1049",
+    "service_date": "2026-02-02",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 674,
+    "status": "paid",
+    "denial_risk": 0.18,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1177",
+    "member_id": "M-1050",
+    "service_date": "2026-03-25",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 371,
+    "status": "paid",
+    "denial_risk": 0.22,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1178",
+    "member_id": "M-1050",
+    "service_date": "2026-06-06",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1226,
+    "status": "paid",
+    "denial_risk": 0.32,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1179",
+    "member_id": "M-1050",
+    "service_date": "2026-01-04",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1554,
+    "status": "paid",
+    "denial_risk": 0.18,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1180",
+    "member_id": "M-1050",
+    "service_date": "2026-05-13",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1386,
+    "status": "paid",
+    "denial_risk": 0.23,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1181",
+    "member_id": "M-1050",
+    "service_date": "2026-02-04",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1400,
+    "status": "paid",
+    "denial_risk": 0.42,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1182",
+    "member_id": "M-1051",
+    "service_date": "2026-04-15",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 619,
+    "status": "paid",
+    "denial_risk": 0.3,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1183",
+    "member_id": "M-1051",
+    "service_date": "2026-06-09",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 363,
+    "status": "paid",
+    "denial_risk": 0.22,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1184",
+    "member_id": "M-1051",
+    "service_date": "2026-06-17",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 989,
+    "status": "paid",
+    "denial_risk": 0.14,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1185",
+    "member_id": "M-1052",
+    "service_date": "2026-06-20",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1270,
+    "status": "paid",
+    "denial_risk": 0.3,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1186",
+    "member_id": "M-1053",
+    "service_date": "2026-03-03",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1348,
+    "status": "paid",
+    "denial_risk": 0.15,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1187",
+    "member_id": "M-1054",
+    "service_date": "2026-03-24",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1367,
+    "status": "paid",
+    "denial_risk": 0.33,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1188",
+    "member_id": "M-1054",
+    "service_date": "2026-06-08",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1778,
+    "status": "paid",
+    "denial_risk": 0.1,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1189",
+    "member_id": "M-1054",
+    "service_date": "2026-05-14",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 678,
+    "status": "paid",
+    "denial_risk": 0.11,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1190",
+    "member_id": "M-1054",
+    "service_date": "2026-04-03",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 991,
+    "status": "paid",
+    "denial_risk": 0.21,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1191",
+    "member_id": "M-1054",
+    "service_date": "2026-04-11",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1512,
+    "status": "paid",
+    "denial_risk": 0.27,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1192",
+    "member_id": "M-1054",
+    "service_date": "2026-01-11",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1051,
+    "status": "paid",
+    "denial_risk": 0.14,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1193",
+    "member_id": "M-1054",
+    "service_date": "2026-03-24",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1783,
+    "status": "paid",
+    "denial_risk": 0.36,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1194",
+    "member_id": "M-1055",
+    "service_date": "2026-01-13",
+    "provider": "Lakeview Medical",
+    "procedure": "Respiratory infection visit",
+    "amount": 204,
+    "status": "paid",
+    "denial_risk": 0.36,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1195",
+    "member_id": "M-1055",
+    "service_date": "2026-05-18",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 689,
+    "status": "paid",
+    "denial_risk": 0.3,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1196",
+    "member_id": "M-1055",
+    "service_date": "2026-06-11",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1451,
+    "status": "paid",
+    "denial_risk": 0.25,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1197",
+    "member_id": "M-1056",
+    "service_date": "2026-02-09",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 484,
+    "status": "paid",
+    "denial_risk": 0.24,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1198",
+    "member_id": "M-1056",
+    "service_date": "2026-05-18",
+    "provider": "Summit Endocrinology",
+    "procedure": "Spirometry",
+    "amount": 1035,
+    "status": "paid",
+    "denial_risk": 0.14,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PULM-SPIRO"
+    ]
+  },
+  {
+    "claim_id": "CLM-1199",
+    "member_id": "M-1056",
+    "service_date": "2026-01-29",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1024,
+    "status": "paid",
+    "denial_risk": 0.2,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1200",
+    "member_id": "M-1056",
+    "service_date": "2026-06-11",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1190,
+    "status": "paid",
+    "denial_risk": 0.18,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1201",
+    "member_id": "M-1057",
+    "service_date": "2026-05-15",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1322,
+    "status": "paid",
+    "denial_risk": 0.24,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1202",
+    "member_id": "M-1058",
+    "service_date": "2026-03-28",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Respiratory infection visit",
+    "amount": 825,
+    "status": "paid",
+    "denial_risk": 0.17,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1203",
+    "member_id": "M-1058",
+    "service_date": "2026-04-27",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 605,
+    "status": "paid",
+    "denial_risk": 0.12,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1204",
+    "member_id": "M-1058",
+    "service_date": "2026-01-26",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 360,
+    "status": "paid",
+    "denial_risk": 0.17,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1205",
+    "member_id": "M-1058",
+    "service_date": "2026-04-19",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 401,
+    "status": "paid",
+    "denial_risk": 0.11,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1206",
+    "member_id": "M-1058",
+    "service_date": "2026-05-25",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1467,
+    "status": "paid",
+    "denial_risk": 0.12,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1207",
+    "member_id": "M-1059",
+    "service_date": "2026-02-23",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1351,
+    "status": "paid",
+    "denial_risk": 0.27,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1208",
+    "member_id": "M-1059",
+    "service_date": "2026-06-09",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1067,
+    "status": "paid",
+    "denial_risk": 0.39,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1209",
+    "member_id": "M-1059",
+    "service_date": "2026-01-29",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 620,
+    "status": "paid",
+    "denial_risk": 0.39,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1210",
+    "member_id": "M-1059",
+    "service_date": "2026-02-12",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 510,
+    "status": "paid",
+    "denial_risk": 0.13,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1211",
+    "member_id": "M-1059",
+    "service_date": "2026-05-17",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 697,
+    "status": "paid",
+    "denial_risk": 0.22,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1212",
+    "member_id": "M-1060",
+    "service_date": "2026-02-28",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 455,
+    "status": "paid",
+    "denial_risk": 0.29,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1213",
+    "member_id": "M-1060",
+    "service_date": "2026-04-15",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1204,
+    "status": "paid",
+    "denial_risk": 0.35,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1214",
+    "member_id": "M-1060",
+    "service_date": "2026-02-19",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 495,
+    "status": "paid",
+    "denial_risk": 0.21,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1215",
+    "member_id": "M-1060",
+    "service_date": "2026-04-13",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1387,
+    "status": "paid",
+    "denial_risk": 0.33,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1216",
+    "member_id": "M-1060",
+    "service_date": "2026-02-10",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1676,
+    "status": "paid",
+    "denial_risk": 0.26,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1217",
+    "member_id": "M-1061",
+    "service_date": "2026-04-20",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1477,
+    "status": "paid",
+    "denial_risk": 0.36,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1218",
+    "member_id": "M-1061",
+    "service_date": "2026-03-01",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 579,
+    "status": "paid",
+    "denial_risk": 0.28,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1219",
+    "member_id": "M-1061",
+    "service_date": "2026-04-12",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1538,
+    "status": "paid",
+    "denial_risk": 0.37,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1220",
+    "member_id": "M-1061",
+    "service_date": "2026-03-04",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1029,
+    "status": "paid",
+    "denial_risk": 0.42,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1221",
+    "member_id": "M-1061",
+    "service_date": "2026-02-11",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1253,
+    "status": "paid",
+    "denial_risk": 0.23,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1222",
+    "member_id": "M-1062",
+    "service_date": "2026-03-14",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 598,
+    "status": "paid",
+    "denial_risk": 0.16,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1223",
+    "member_id": "M-1062",
+    "service_date": "2026-04-17",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1098,
+    "status": "paid",
+    "denial_risk": 0.36,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1224",
+    "member_id": "M-1062",
+    "service_date": "2026-01-29",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1763,
+    "status": "paid",
+    "denial_risk": 0.12,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1225",
+    "member_id": "M-1062",
+    "service_date": "2026-06-03",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1667,
+    "status": "paid",
+    "denial_risk": 0.13,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1226",
+    "member_id": "M-1062",
+    "service_date": "2026-01-31",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1526,
+    "status": "paid",
+    "denial_risk": 0.41,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1227",
+    "member_id": "M-1062",
+    "service_date": "2026-03-22",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 492,
+    "status": "paid",
+    "denial_risk": 0.23,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1228",
+    "member_id": "M-1063",
+    "service_date": "2026-02-12",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1368,
+    "status": "paid",
+    "denial_risk": 0.28,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1229",
+    "member_id": "M-1063",
+    "service_date": "2026-02-16",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1140,
+    "status": "paid",
+    "denial_risk": 0.26,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1230",
+    "member_id": "M-1063",
+    "service_date": "2026-03-06",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1649,
+    "status": "paid",
+    "denial_risk": 0.22,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1231",
+    "member_id": "M-1064",
+    "service_date": "2026-05-03",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 594,
+    "status": "paid",
+    "denial_risk": 0.09,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1232",
+    "member_id": "M-1064",
+    "service_date": "2026-06-03",
+    "provider": "Lakeview Medical",
+    "procedure": "Spirometry",
+    "amount": 628,
+    "status": "paid",
+    "denial_risk": 0.28,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PULM-SPIRO"
+    ]
+  },
+  {
+    "claim_id": "CLM-1233",
+    "member_id": "M-1064",
+    "service_date": "2026-02-27",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1528,
+    "status": "paid",
+    "denial_risk": 0.25,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1234",
+    "member_id": "M-1064",
+    "service_date": "2026-02-05",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 687,
+    "status": "paid",
+    "denial_risk": 0.16,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1235",
+    "member_id": "M-1065",
+    "service_date": "2026-03-09",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 783,
+    "status": "paid",
+    "denial_risk": 0.2,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1236",
+    "member_id": "M-1066",
+    "service_date": "2026-02-04",
+    "provider": "Cedar Primary Care",
+    "procedure": "Respiratory infection visit",
+    "amount": 969,
+    "status": "paid",
+    "denial_risk": 0.13,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1237",
+    "member_id": "M-1066",
+    "service_date": "2026-05-20",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1533,
+    "status": "paid",
+    "denial_risk": 0.27,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1238",
+    "member_id": "M-1066",
+    "service_date": "2026-05-08",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 350,
+    "status": "paid",
+    "denial_risk": 0.15,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1239",
+    "member_id": "M-1066",
+    "service_date": "2026-01-18",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 870,
+    "status": "paid",
+    "denial_risk": 0.39,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1240",
+    "member_id": "M-1066",
+    "service_date": "2026-05-13",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1138,
+    "status": "paid",
+    "denial_risk": 0.18,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1241",
+    "member_id": "M-1066",
+    "service_date": "2026-01-15",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 664,
+    "status": "paid",
+    "denial_risk": 0.33,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1242",
+    "member_id": "M-1067",
+    "service_date": "2026-04-21",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1784,
+    "status": "paid",
+    "denial_risk": 0.29,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1243",
+    "member_id": "M-1067",
+    "service_date": "2026-05-17",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1532,
+    "status": "paid",
+    "denial_risk": 0.14,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1244",
+    "member_id": "M-1067",
+    "service_date": "2026-04-06",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1633,
+    "status": "paid",
+    "denial_risk": 0.11,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1245",
+    "member_id": "M-1067",
+    "service_date": "2026-04-13",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1350,
+    "status": "paid",
+    "denial_risk": 0.16,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1246",
+    "member_id": "M-1067",
+    "service_date": "2026-02-02",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1466,
+    "status": "paid",
+    "denial_risk": 0.25,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1247",
+    "member_id": "M-1067",
+    "service_date": "2026-04-13",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1756,
+    "status": "paid",
+    "denial_risk": 0.19,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1248",
+    "member_id": "M-1067",
+    "service_date": "2026-05-24",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1777,
+    "status": "paid",
+    "denial_risk": 0.1,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1249",
+    "member_id": "M-1068",
+    "service_date": "2026-01-08",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1361,
+    "status": "paid",
+    "denial_risk": 0.33,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1250",
+    "member_id": "M-1068",
+    "service_date": "2026-05-24",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 736,
+    "status": "paid",
+    "denial_risk": 0.37,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1251",
+    "member_id": "M-1068",
+    "service_date": "2026-03-07",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 814,
+    "status": "paid",
+    "denial_risk": 0.11,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1252",
+    "member_id": "M-1068",
+    "service_date": "2026-04-24",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1681,
+    "status": "paid",
+    "denial_risk": 0.38,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1253",
+    "member_id": "M-1068",
+    "service_date": "2026-05-27",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 799,
+    "status": "paid",
+    "denial_risk": 0.4,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1254",
+    "member_id": "M-1068",
+    "service_date": "2026-01-03",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 147,
+    "status": "paid",
+    "denial_risk": 0.4,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1255",
+    "member_id": "M-1068",
+    "service_date": "2026-03-08",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1472,
+    "status": "paid",
+    "denial_risk": 0.31,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1256",
+    "member_id": "M-1069",
+    "service_date": "2026-06-04",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 223,
+    "status": "paid",
+    "denial_risk": 0.12,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1257",
+    "member_id": "M-1069",
+    "service_date": "2026-04-05",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 666,
+    "status": "paid",
+    "denial_risk": 0.13,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1258",
+    "member_id": "M-1069",
+    "service_date": "2026-04-05",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1753,
+    "status": "paid",
+    "denial_risk": 0.42,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1259",
+    "member_id": "M-1069",
+    "service_date": "2026-01-15",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 578,
+    "status": "paid",
+    "denial_risk": 0.15,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1260",
+    "member_id": "M-1070",
+    "service_date": "2026-02-05",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1624,
+    "status": "paid",
+    "denial_risk": 0.27,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1261",
+    "member_id": "M-1070",
+    "service_date": "2026-02-12",
+    "provider": "Cedar Primary Care",
+    "procedure": "Spirometry",
+    "amount": 123,
+    "status": "paid",
+    "denial_risk": 0.09,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PULM-SPIRO"
+    ]
+  },
+  {
+    "claim_id": "CLM-1262",
+    "member_id": "M-1070",
+    "service_date": "2026-02-17",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1154,
+    "status": "paid",
+    "denial_risk": 0.33,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1263",
+    "member_id": "M-1071",
+    "service_date": "2025-12-31",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 795,
+    "status": "paid",
+    "denial_risk": 0.14,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1264",
+    "member_id": "M-1071",
+    "service_date": "2026-06-08",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1204,
+    "status": "paid",
+    "denial_risk": 0.3,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1265",
+    "member_id": "M-1071",
+    "service_date": "2026-06-19",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1430,
+    "status": "paid",
+    "denial_risk": 0.32,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1266",
+    "member_id": "M-1071",
+    "service_date": "2026-03-04",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 694,
+    "status": "paid",
+    "denial_risk": 0.41,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1267",
+    "member_id": "M-1072",
+    "service_date": "2026-05-23",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1686,
+    "status": "paid",
+    "denial_risk": 0.19,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1268",
+    "member_id": "M-1072",
+    "service_date": "2026-02-02",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Spirometry",
+    "amount": 1487,
+    "status": "paid",
+    "denial_risk": 0.09,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PULM-SPIRO"
+    ]
+  },
+  {
+    "claim_id": "CLM-1269",
+    "member_id": "M-1073",
+    "service_date": "2026-05-31",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 313,
+    "status": "paid",
+    "denial_risk": 0.28,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1270",
+    "member_id": "M-1073",
+    "service_date": "2026-01-31",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1240,
+    "status": "paid",
+    "denial_risk": 0.17,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1271",
+    "member_id": "M-1073",
+    "service_date": "2026-04-18",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1045,
+    "status": "paid",
+    "denial_risk": 0.37,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1272",
+    "member_id": "M-1073",
+    "service_date": "2026-03-13",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1713,
+    "status": "paid",
+    "denial_risk": 0.08,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1273",
+    "member_id": "M-1074",
+    "service_date": "2026-01-12",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1683,
+    "status": "paid",
+    "denial_risk": 0.38,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1274",
+    "member_id": "M-1074",
+    "service_date": "2026-01-26",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1618,
+    "status": "paid",
+    "denial_risk": 0.36,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1275",
+    "member_id": "M-1074",
+    "service_date": "2026-03-05",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 986,
+    "status": "paid",
+    "denial_risk": 0.22,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1276",
+    "member_id": "M-1075",
+    "service_date": "2026-04-14",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1096,
+    "status": "paid",
+    "denial_risk": 0.13,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1277",
+    "member_id": "M-1075",
+    "service_date": "2026-01-07",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 671,
+    "status": "paid",
+    "denial_risk": 0.36,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1278",
+    "member_id": "M-1075",
+    "service_date": "2026-01-01",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 759,
+    "status": "paid",
+    "denial_risk": 0.4,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1279",
+    "member_id": "M-1075",
+    "service_date": "2026-04-18",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 496,
+    "status": "paid",
+    "denial_risk": 0.2,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1280",
+    "member_id": "M-1075",
+    "service_date": "2026-06-18",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1201,
+    "status": "paid",
+    "denial_risk": 0.29,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1281",
+    "member_id": "M-1075",
+    "service_date": "2026-04-08",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1317,
+    "status": "paid",
+    "denial_risk": 0.25,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1282",
+    "member_id": "M-1076",
+    "service_date": "2026-03-30",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1285,
+    "status": "paid",
+    "denial_risk": 0.09,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1283",
+    "member_id": "M-1076",
+    "service_date": "2026-02-17",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 472,
+    "status": "paid",
+    "denial_risk": 0.19,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1284",
+    "member_id": "M-1077",
+    "service_date": "2026-01-10",
+    "provider": "Summit Endocrinology",
+    "procedure": "Respiratory infection visit",
+    "amount": 184,
+    "status": "paid",
+    "denial_risk": 0.28,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1285",
+    "member_id": "M-1077",
+    "service_date": "2026-01-28",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 722,
+    "status": "paid",
+    "denial_risk": 0.33,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1286",
+    "member_id": "M-1077",
+    "service_date": "2026-01-10",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 150,
+    "status": "paid",
+    "denial_risk": 0.4,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1287",
+    "member_id": "M-1077",
+    "service_date": "2026-05-31",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1765,
+    "status": "paid",
+    "denial_risk": 0.22,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1288",
+    "member_id": "M-1077",
+    "service_date": "2026-03-05",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1165,
+    "status": "paid",
+    "denial_risk": 0.26,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1289",
+    "member_id": "M-1077",
+    "service_date": "2026-01-14",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 141,
+    "status": "paid",
+    "denial_risk": 0.09,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1290",
+    "member_id": "M-1077",
+    "service_date": "2026-05-08",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1607,
+    "status": "paid",
+    "denial_risk": 0.34,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1291",
+    "member_id": "M-1078",
+    "service_date": "2026-01-14",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 932,
+    "status": "paid",
+    "denial_risk": 0.09,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1292",
+    "member_id": "M-1078",
+    "service_date": "2026-06-08",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1428,
+    "status": "paid",
+    "denial_risk": 0.32,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1293",
+    "member_id": "M-1079",
+    "service_date": "2026-06-13",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1392,
+    "status": "paid",
+    "denial_risk": 0.08,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1294",
+    "member_id": "M-1079",
+    "service_date": "2026-01-26",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 290,
+    "status": "paid",
+    "denial_risk": 0.17,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1295",
+    "member_id": "M-1079",
+    "service_date": "2026-05-26",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 709,
+    "status": "paid",
+    "denial_risk": 0.15,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1296",
+    "member_id": "M-1079",
+    "service_date": "2026-01-27",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 510,
+    "status": "paid",
+    "denial_risk": 0.3,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1297",
+    "member_id": "M-1079",
+    "service_date": "2026-02-12",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1650,
+    "status": "paid",
+    "denial_risk": 0.33,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1298",
+    "member_id": "M-1079",
+    "service_date": "2026-01-28",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1707,
+    "status": "paid",
+    "denial_risk": 0.1,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1299",
+    "member_id": "M-1080",
+    "service_date": "2026-02-12",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 631,
+    "status": "paid",
+    "denial_risk": 0.14,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1300",
+    "member_id": "M-1080",
+    "service_date": "2026-01-22",
+    "provider": "Cedar Primary Care",
+    "procedure": "Spirometry",
+    "amount": 711,
+    "status": "paid",
+    "denial_risk": 0.09,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PULM-SPIRO"
+    ]
+  },
+  {
+    "claim_id": "CLM-1301",
+    "member_id": "M-1080",
+    "service_date": "2026-06-07",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1764,
+    "status": "paid",
+    "denial_risk": 0.25,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1302",
+    "member_id": "M-1080",
+    "service_date": "2026-05-25",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 278,
+    "status": "paid",
+    "denial_risk": 0.1,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1303",
+    "member_id": "M-1080",
+    "service_date": "2026-01-16",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1272,
+    "status": "paid",
+    "denial_risk": 0.34,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1304",
+    "member_id": "M-1081",
+    "service_date": "2026-06-19",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1417,
+    "status": "paid",
+    "denial_risk": 0.38,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1305",
+    "member_id": "M-1082",
+    "service_date": "2026-01-27",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 581,
+    "status": "paid",
+    "denial_risk": 0.27,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1306",
+    "member_id": "M-1082",
+    "service_date": "2026-03-16",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 653,
+    "status": "paid",
+    "denial_risk": 0.18,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1307",
+    "member_id": "M-1082",
+    "service_date": "2026-01-28",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 960,
+    "status": "paid",
+    "denial_risk": 0.1,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1308",
+    "member_id": "M-1082",
+    "service_date": "2026-05-25",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1139,
+    "status": "paid",
+    "denial_risk": 0.26,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1309",
+    "member_id": "M-1082",
+    "service_date": "2026-03-25",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 333,
+    "status": "paid",
+    "denial_risk": 0.1,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1310",
+    "member_id": "M-1083",
+    "service_date": "2026-05-04",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Respiratory infection visit",
+    "amount": 1491,
+    "status": "paid",
+    "denial_risk": 0.24,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1311",
+    "member_id": "M-1083",
+    "service_date": "2026-05-14",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1771,
+    "status": "paid",
+    "denial_risk": 0.25,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1312",
+    "member_id": "M-1083",
+    "service_date": "2026-06-20",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1452,
+    "status": "paid",
+    "denial_risk": 0.14,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1313",
+    "member_id": "M-1083",
+    "service_date": "2026-04-15",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 772,
+    "status": "paid",
+    "denial_risk": 0.19,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1314",
+    "member_id": "M-1083",
+    "service_date": "2026-04-22",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1112,
+    "status": "paid",
+    "denial_risk": 0.23,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1315",
+    "member_id": "M-1083",
+    "service_date": "2026-05-09",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 209,
+    "status": "paid",
+    "denial_risk": 0.11,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1316",
+    "member_id": "M-1084",
+    "service_date": "2026-04-04",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1083,
+    "status": "paid",
+    "denial_risk": 0.22,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1317",
+    "member_id": "M-1085",
+    "service_date": "2026-01-04",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1382,
+    "status": "paid",
+    "denial_risk": 0.32,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1318",
+    "member_id": "M-1085",
+    "service_date": "2026-03-23",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1798,
+    "status": "paid",
+    "denial_risk": 0.17,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1319",
+    "member_id": "M-1085",
+    "service_date": "2026-04-22",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1625,
+    "status": "paid",
+    "denial_risk": 0.28,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1320",
+    "member_id": "M-1086",
+    "service_date": "2026-03-20",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1055,
+    "status": "paid",
+    "denial_risk": 0.16,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1321",
+    "member_id": "M-1087",
+    "service_date": "2026-06-07",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1422,
+    "status": "paid",
+    "denial_risk": 0.11,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1322",
+    "member_id": "M-1087",
+    "service_date": "2026-01-12",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 867,
+    "status": "paid",
+    "denial_risk": 0.32,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1323",
+    "member_id": "M-1087",
+    "service_date": "2026-01-14",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 454,
+    "status": "paid",
+    "denial_risk": 0.31,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1324",
+    "member_id": "M-1087",
+    "service_date": "2026-03-16",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 294,
+    "status": "paid",
+    "denial_risk": 0.17,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1325",
+    "member_id": "M-1087",
+    "service_date": "2026-04-19",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1544,
+    "status": "paid",
+    "denial_risk": 0.28,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1326",
+    "member_id": "M-1088",
+    "service_date": "2026-03-02",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Respiratory infection visit",
+    "amount": 278,
+    "status": "paid",
+    "denial_risk": 0.36,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1327",
+    "member_id": "M-1088",
+    "service_date": "2026-06-13",
+    "provider": "North Valley Clinic",
+    "procedure": "Spirometry",
+    "amount": 331,
+    "status": "paid",
+    "denial_risk": 0.24,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PULM-SPIRO"
+    ]
+  },
+  {
+    "claim_id": "CLM-1328",
+    "member_id": "M-1088",
+    "service_date": "2026-04-18",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1610,
+    "status": "paid",
+    "denial_risk": 0.27,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1329",
+    "member_id": "M-1089",
+    "service_date": "2026-02-26",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 431,
+    "status": "paid",
+    "denial_risk": 0.21,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1330",
+    "member_id": "M-1089",
+    "service_date": "2026-06-18",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 529,
+    "status": "paid",
+    "denial_risk": 0.36,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1331",
+    "member_id": "M-1090",
+    "service_date": "2026-05-28",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 554,
+    "status": "paid",
+    "denial_risk": 0.24,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1332",
+    "member_id": "M-1090",
+    "service_date": "2026-05-13",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 197,
+    "status": "paid",
+    "denial_risk": 0.32,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1333",
+    "member_id": "M-1090",
+    "service_date": "2026-06-15",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1160,
+    "status": "paid",
+    "denial_risk": 0.29,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1334",
+    "member_id": "M-1090",
+    "service_date": "2026-05-30",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 872,
+    "status": "paid",
+    "denial_risk": 0.19,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1335",
+    "member_id": "M-1090",
+    "service_date": "2026-02-24",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 545,
+    "status": "paid",
+    "denial_risk": 0.33,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1336",
+    "member_id": "M-1090",
+    "service_date": "2026-04-23",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1747,
+    "status": "paid",
+    "denial_risk": 0.41,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1337",
+    "member_id": "M-1091",
+    "service_date": "2026-02-22",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1349,
+    "status": "paid",
+    "denial_risk": 0.26,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1338",
+    "member_id": "M-1091",
+    "service_date": "2026-02-26",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1429,
+    "status": "paid",
+    "denial_risk": 0.23,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1339",
+    "member_id": "M-1091",
+    "service_date": "2026-03-09",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1492,
+    "status": "paid",
+    "denial_risk": 0.42,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1340",
+    "member_id": "M-1092",
+    "service_date": "2026-01-29",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1510,
+    "status": "paid",
+    "denial_risk": 0.24,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1341",
+    "member_id": "M-1092",
+    "service_date": "2026-02-17",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1461,
+    "status": "paid",
+    "denial_risk": 0.29,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1342",
+    "member_id": "M-1092",
+    "service_date": "2026-02-11",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 660,
+    "status": "paid",
+    "denial_risk": 0.16,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1343",
+    "member_id": "M-1092",
+    "service_date": "2026-03-16",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1319,
+    "status": "paid",
+    "denial_risk": 0.38,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1344",
+    "member_id": "M-1092",
+    "service_date": "2026-02-06",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 206,
+    "status": "paid",
+    "denial_risk": 0.26,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1345",
+    "member_id": "M-1092",
+    "service_date": "2026-04-15",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 393,
+    "status": "paid",
+    "denial_risk": 0.28,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1346",
+    "member_id": "M-1092",
+    "service_date": "2026-02-07",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 495,
+    "status": "paid",
+    "denial_risk": 0.37,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1347",
+    "member_id": "M-1093",
+    "service_date": "2026-05-21",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1558,
+    "status": "paid",
+    "denial_risk": 0.4,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1348",
+    "member_id": "M-1093",
+    "service_date": "2026-01-02",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 185,
+    "status": "paid",
+    "denial_risk": 0.27,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1349",
+    "member_id": "M-1093",
+    "service_date": "2026-04-21",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 200,
+    "status": "paid",
+    "denial_risk": 0.31,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1350",
+    "member_id": "M-1093",
+    "service_date": "2026-01-20",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 672,
+    "status": "paid",
+    "denial_risk": 0.42,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1351",
+    "member_id": "M-1093",
+    "service_date": "2026-03-23",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1147,
+    "status": "paid",
+    "denial_risk": 0.31,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1352",
+    "member_id": "M-1094",
+    "service_date": "2026-05-14",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 248,
+    "status": "paid",
+    "denial_risk": 0.11,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1353",
+    "member_id": "M-1094",
+    "service_date": "2026-05-12",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 197,
+    "status": "paid",
+    "denial_risk": 0.18,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1354",
+    "member_id": "M-1095",
+    "service_date": "2026-06-10",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 943,
+    "status": "paid",
+    "denial_risk": 0.38,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1355",
+    "member_id": "M-1096",
+    "service_date": "2026-06-20",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1238,
+    "status": "paid",
+    "denial_risk": 0.37,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1356",
+    "member_id": "M-1096",
+    "service_date": "2026-03-05",
+    "provider": "Summit Endocrinology",
+    "procedure": "Spirometry",
+    "amount": 657,
+    "status": "paid",
+    "denial_risk": 0.35,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PULM-SPIRO"
+    ]
+  },
+  {
+    "claim_id": "CLM-1357",
+    "member_id": "M-1096",
+    "service_date": "2026-06-16",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 515,
+    "status": "paid",
+    "denial_risk": 0.36,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1358",
+    "member_id": "M-1096",
+    "service_date": "2026-05-06",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1303,
+    "status": "paid",
+    "denial_risk": 0.36,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1359",
+    "member_id": "M-1096",
+    "service_date": "2026-01-12",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 441,
+    "status": "paid",
+    "denial_risk": 0.16,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1360",
+    "member_id": "M-1097",
+    "service_date": "2026-05-30",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 355,
+    "status": "paid",
+    "denial_risk": 0.09,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1361",
+    "member_id": "M-1097",
+    "service_date": "2026-01-24",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 152,
+    "status": "paid",
+    "denial_risk": 0.36,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1362",
+    "member_id": "M-1097",
+    "service_date": "2026-03-05",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 264,
+    "status": "paid",
+    "denial_risk": 0.3,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1363",
+    "member_id": "M-1098",
+    "service_date": "2026-04-22",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 150,
+    "status": "paid",
+    "denial_risk": 0.34,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1364",
+    "member_id": "M-1098",
+    "service_date": "2026-05-14",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 149,
+    "status": "paid",
+    "denial_risk": 0.26,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1365",
+    "member_id": "M-1098",
+    "service_date": "2026-01-29",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 834,
+    "status": "paid",
+    "denial_risk": 0.3,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1366",
+    "member_id": "M-1098",
+    "service_date": "2026-04-10",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1390,
+    "status": "paid",
+    "denial_risk": 0.19,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1367",
+    "member_id": "M-1098",
+    "service_date": "2026-04-03",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1472,
+    "status": "paid",
+    "denial_risk": 0.29,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1368",
+    "member_id": "M-1098",
+    "service_date": "2026-04-13",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1790,
+    "status": "paid",
+    "denial_risk": 0.35,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1369",
+    "member_id": "M-1099",
+    "service_date": "2026-04-10",
+    "provider": "North Valley Clinic",
+    "procedure": "Respiratory infection visit",
+    "amount": 937,
+    "status": "paid",
+    "denial_risk": 0.09,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1370",
+    "member_id": "M-1099",
+    "service_date": "2026-03-15",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1060,
+    "status": "paid",
+    "denial_risk": 0.35,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1371",
+    "member_id": "M-1099",
+    "service_date": "2026-03-20",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 1193,
+    "status": "paid",
+    "denial_risk": 0.1,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1372",
+    "member_id": "M-1099",
+    "service_date": "2026-01-02",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 1337,
+    "status": "paid",
+    "denial_risk": 0.08,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1373",
+    "member_id": "M-1099",
+    "service_date": "2026-05-26",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 1043,
+    "status": "paid",
+    "denial_risk": 0.35,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1374",
+    "member_id": "M-1099",
+    "service_date": "2026-01-31",
+    "provider": "North Valley Clinic",
+    "procedure": "Office visit",
+    "amount": 1022,
+    "status": "paid",
+    "denial_risk": 0.33,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1375",
+    "member_id": "M-1100",
+    "service_date": "2026-01-11",
+    "provider": "Lakeview Medical",
+    "procedure": "Office visit",
+    "amount": 1393,
+    "status": "paid",
+    "denial_risk": 0.36,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1376",
+    "member_id": "M-1100",
+    "service_date": "2026-02-14",
+    "provider": "Cedar Primary Care",
+    "procedure": "Office visit",
+    "amount": 944,
+    "status": "paid",
+    "denial_risk": 0.23,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1377",
+    "member_id": "M-1100",
+    "service_date": "2026-04-13",
+    "provider": "Summit Endocrinology",
+    "procedure": "Office visit",
+    "amount": 404,
+    "status": "paid",
+    "denial_risk": 0.2,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  },
+  {
+    "claim_id": "CLM-1378",
+    "member_id": "M-1100",
+    "service_date": "2026-05-15",
+    "provider": "Riverside Respiratory Care",
+    "procedure": "Office visit",
+    "amount": 547,
+    "status": "paid",
+    "denial_risk": 0.09,
+    "missing_documentation": [],
+    "policy_ids": [
+      "POL-PCP-ROUTINE"
+    ]
+  }
+]

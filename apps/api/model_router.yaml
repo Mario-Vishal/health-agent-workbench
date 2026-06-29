@@ -1,0 +1,13 @@
+models:
+  default_agent:
+    provider: openai
+    model: gpt-4.1-mini
+  advanced_agent:
+    provider: openai
+    model: gpt-5.4-mini
+  eval_judge:
+    provider: openai
+    model: gpt-5.5
+  local_fallback:
+    provider: ollama
+    model: qwen3.5:9b

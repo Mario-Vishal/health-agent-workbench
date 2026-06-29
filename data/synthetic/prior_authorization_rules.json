@@ -1,0 +1,12 @@
+[
+  {
+    "rule_id": "PA-GLP1-001",
+    "policy_id": "POL-PA-GLP1",
+    "trigger": "procedure == GLP-1 initiation",
+    "required_documents": [
+      "Prior authorization",
+      "Recent HbA1c lab",
+      "Step therapy documentation"
+    ]
+  }
+]

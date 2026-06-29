@@ -1,0 +1,51 @@
+[
+  {
+    "policy_id": "POL-PA-GLP1",
+    "title": "GLP-1 Prior Authorization Policy",
+    "effective_date": "2026-01-01",
+    "snippets": [
+      {
+        "id": "POL-PA-GLP1-S1",
+        "text": "GLP-1 therapy requires prior authorization for initial approval.",
+        "requires": [
+          "Prior authorization"
+        ]
+      },
+      {
+        "id": "POL-PA-GLP1-S2",
+        "text": "Documentation must include recent HbA1c and evidence of step therapy unless contraindicated.",
+        "requires": [
+          "Recent HbA1c lab",
+          "Step therapy documentation"
+        ]
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-PCP-ROUTINE",
+    "title": "Routine Primary Care Claim Policy",
+    "effective_date": "2026-01-01",
+    "snippets": [
+      {
+        "id": "POL-PCP-ROUTINE-S1",
+        "text": "Routine office visits require a valid diagnosis and rendering provider.",
+        "requires": []
+      }
+    ]
+  },
+  {
+    "policy_id": "POL-PULM-SPIRO",
+    "title": "Pulmonary Function Testing Policy",
+    "effective_date": "2026-01-01",
+    "snippets": [
+      {
+        "id": "POL-PULM-SPIRO-S1",
+        "text": "Spirometry claims require a respiratory diagnosis such as asthma or COPD and documentation of medical necessity.",
+        "requires": [
+          "Respiratory diagnosis",
+          "Medical necessity documentation"
+        ]
+      }
+    ]
+  }
+]

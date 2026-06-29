@@ -1,0 +1,538 @@
+[
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1001",
+    "member_id": "M-1001",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1002",
+    "member_id": "M-1002",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1003",
+    "member_id": "M-1003",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1004",
+    "member_id": "M-1004",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1005",
+    "member_id": "M-1005",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "stopped",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1006",
+    "member_id": "M-1006",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1007",
+    "member_id": "M-1007",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1008",
+    "member_id": "M-1008",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-albuterol-M-1008",
+    "member_id": "M-1008",
+    "medication": "Albuterol inhaler",
+    "status": "active",
+    "authoredOn": "2025-12-28"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1009",
+    "member_id": "M-1009",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1010",
+    "member_id": "M-1010",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "stopped",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1011",
+    "member_id": "M-1011",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1012",
+    "member_id": "M-1012",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1013",
+    "member_id": "M-1013",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-albuterol-M-1013",
+    "member_id": "M-1013",
+    "medication": "Albuterol inhaler",
+    "status": "active",
+    "authoredOn": "2025-12-28"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1014",
+    "member_id": "M-1014",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1015",
+    "member_id": "M-1015",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "stopped",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1016",
+    "member_id": "M-1016",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-albuterol-M-1016",
+    "member_id": "M-1016",
+    "medication": "Albuterol inhaler",
+    "status": "active",
+    "authoredOn": "2025-12-28"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1017",
+    "member_id": "M-1017",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1018",
+    "member_id": "M-1018",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1019",
+    "member_id": "M-1019",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1020",
+    "member_id": "M-1020",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "stopped",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1021",
+    "member_id": "M-1021",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1022",
+    "member_id": "M-1022",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1023",
+    "member_id": "M-1023",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1024",
+    "member_id": "M-1024",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-albuterol-M-1024",
+    "member_id": "M-1024",
+    "medication": "Albuterol inhaler",
+    "status": "stopped",
+    "authoredOn": "2025-12-28"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1025",
+    "member_id": "M-1025",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "stopped",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1026",
+    "member_id": "M-1026",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-albuterol-M-1026",
+    "member_id": "M-1026",
+    "medication": "Albuterol inhaler",
+    "status": "active",
+    "authoredOn": "2025-12-28"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1027",
+    "member_id": "M-1027",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1028",
+    "member_id": "M-1028",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1029",
+    "member_id": "M-1029",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1030",
+    "member_id": "M-1030",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "stopped",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1031",
+    "member_id": "M-1031",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1032",
+    "member_id": "M-1032",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-albuterol-M-1032",
+    "member_id": "M-1032",
+    "medication": "Albuterol inhaler",
+    "status": "active",
+    "authoredOn": "2025-12-28"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1033",
+    "member_id": "M-1033",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1034",
+    "member_id": "M-1034",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1035",
+    "member_id": "M-1035",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "stopped",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1036",
+    "member_id": "M-1036",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1037",
+    "member_id": "M-1037",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1038",
+    "member_id": "M-1038",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1039",
+    "member_id": "M-1039",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-albuterol-M-1039",
+    "member_id": "M-1039",
+    "medication": "Albuterol inhaler",
+    "status": "active",
+    "authoredOn": "2025-12-28"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1040",
+    "member_id": "M-1040",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "stopped",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-albuterol-M-1040",
+    "member_id": "M-1040",
+    "medication": "Albuterol inhaler",
+    "status": "stopped",
+    "authoredOn": "2025-12-28"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1041",
+    "member_id": "M-1041",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1042",
+    "member_id": "M-1042",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1043",
+    "member_id": "M-1043",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1044",
+    "member_id": "M-1044",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1045",
+    "member_id": "M-1045",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "stopped",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1046",
+    "member_id": "M-1046",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-albuterol-M-1048",
+    "member_id": "M-1048",
+    "medication": "Albuterol inhaler",
+    "status": "stopped",
+    "authoredOn": "2025-12-28"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-albuterol-M-1052",
+    "member_id": "M-1052",
+    "medication": "Albuterol inhaler",
+    "status": "active",
+    "authoredOn": "2025-12-28"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-albuterol-M-1056",
+    "member_id": "M-1056",
+    "medication": "Albuterol inhaler",
+    "status": "active",
+    "authoredOn": "2025-12-28"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1062",
+    "member_id": "M-1062",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-albuterol-M-1064",
+    "member_id": "M-1064",
+    "medication": "Albuterol inhaler",
+    "status": "active",
+    "authoredOn": "2025-12-28"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1071",
+    "member_id": "M-1071",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-albuterol-M-1072",
+    "member_id": "M-1072",
+    "medication": "Albuterol inhaler",
+    "status": "stopped",
+    "authoredOn": "2025-12-28"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-albuterol-M-1080",
+    "member_id": "M-1080",
+    "medication": "Albuterol inhaler",
+    "status": "active",
+    "authoredOn": "2025-12-28"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1087",
+    "member_id": "M-1087",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-albuterol-M-1088",
+    "member_id": "M-1088",
+    "medication": "Albuterol inhaler",
+    "status": "active",
+    "authoredOn": "2025-12-28"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1090",
+    "member_id": "M-1090",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "stopped",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-metformin-M-1092",
+    "member_id": "M-1092",
+    "medication": "Metformin 500 MG Oral Tablet",
+    "status": "active",
+    "authoredOn": "2025-08-10"
+  },
+  {
+    "resourceType": "MedicationRequest",
+    "id": "med-albuterol-M-1096",
+    "member_id": "M-1096",
+    "medication": "Albuterol inhaler",
+    "status": "stopped",
+    "authoredOn": "2025-12-28"
+  }
+]

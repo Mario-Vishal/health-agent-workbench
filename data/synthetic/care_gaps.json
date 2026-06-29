@@ -1,0 +1,722 @@
+[
+  {
+    "id": "gap-a1c-followup-M-1001",
+    "member_id": "M-1001",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1002",
+    "member_id": "M-1002",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1003",
+    "member_id": "M-1003",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1004",
+    "member_id": "M-1004",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1005",
+    "member_id": "M-1005",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1007",
+    "member_id": "M-1007",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-viral-fever-followup-M-1007",
+    "member_id": "M-1007",
+    "type": "Acute illness follow-up",
+    "severity": "medium",
+    "reason": "Viral fever with high temperature needs symptom follow-up",
+    "due_date": "2026-06-28",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1008",
+    "member_id": "M-1008",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1009",
+    "member_id": "M-1009",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1010",
+    "member_id": "M-1010",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-med-adherence-M-1010",
+    "member_id": "M-1010",
+    "type": "Medication adherence",
+    "severity": "medium",
+    "reason": "Medication adherence review is due",
+    "due_date": "2026-06-19",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1011",
+    "member_id": "M-1011",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-viral-fever-followup-M-1011",
+    "member_id": "M-1011",
+    "type": "Acute illness follow-up",
+    "severity": "medium",
+    "reason": "Viral fever with high temperature needs symptom follow-up",
+    "due_date": "2026-06-28",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1012",
+    "member_id": "M-1012",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1013",
+    "member_id": "M-1013",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1014",
+    "member_id": "M-1014",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1015",
+    "member_id": "M-1015",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1016",
+    "member_id": "M-1016",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1017",
+    "member_id": "M-1017",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1018",
+    "member_id": "M-1018",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-preventive-screening-M-1018",
+    "member_id": "M-1018",
+    "type": "Preventive screening",
+    "severity": "low",
+    "reason": "Preventive screening outreach is due",
+    "due_date": "2026-07-26",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1019",
+    "member_id": "M-1019",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1020",
+    "member_id": "M-1020",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-med-adherence-M-1020",
+    "member_id": "M-1020",
+    "type": "Medication adherence",
+    "severity": "medium",
+    "reason": "Medication adherence review is due",
+    "due_date": "2026-06-19",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1021",
+    "member_id": "M-1021",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1022",
+    "member_id": "M-1022",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-viral-fever-followup-M-1022",
+    "member_id": "M-1022",
+    "type": "Acute illness follow-up",
+    "severity": "medium",
+    "reason": "Viral fever with high temperature needs symptom follow-up",
+    "due_date": "2026-06-28",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1023",
+    "member_id": "M-1023",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1024",
+    "member_id": "M-1024",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-asthma-adherence-M-1024",
+    "member_id": "M-1024",
+    "type": "Asthma medication adherence",
+    "severity": "medium",
+    "reason": "Controller or rescue inhaler adherence review is due",
+    "due_date": "2026-06-21",
+    "status": "open"
+  },
+  {
+    "id": "gap-med-adherence-M-1024",
+    "member_id": "M-1024",
+    "type": "Medication adherence",
+    "severity": "medium",
+    "reason": "Medication adherence review is due",
+    "due_date": "2026-06-19",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1025",
+    "member_id": "M-1025",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1026",
+    "member_id": "M-1026",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1027",
+    "member_id": "M-1027",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1028",
+    "member_id": "M-1028",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1029",
+    "member_id": "M-1029",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1030",
+    "member_id": "M-1030",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-med-adherence-M-1030",
+    "member_id": "M-1030",
+    "type": "Medication adherence",
+    "severity": "medium",
+    "reason": "Medication adherence review is due",
+    "due_date": "2026-06-19",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1031",
+    "member_id": "M-1031",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1032",
+    "member_id": "M-1032",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1033",
+    "member_id": "M-1033",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-viral-fever-followup-M-1033",
+    "member_id": "M-1033",
+    "type": "Acute illness follow-up",
+    "severity": "medium",
+    "reason": "Viral fever with high temperature needs symptom follow-up",
+    "due_date": "2026-06-28",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1034",
+    "member_id": "M-1034",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1035",
+    "member_id": "M-1035",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1036",
+    "member_id": "M-1036",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-preventive-screening-M-1036",
+    "member_id": "M-1036",
+    "type": "Preventive screening",
+    "severity": "low",
+    "reason": "Preventive screening outreach is due",
+    "due_date": "2026-07-26",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1037",
+    "member_id": "M-1037",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1038",
+    "member_id": "M-1038",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1039",
+    "member_id": "M-1039",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1040",
+    "member_id": "M-1040",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-asthma-adherence-M-1040",
+    "member_id": "M-1040",
+    "type": "Asthma medication adherence",
+    "severity": "medium",
+    "reason": "Controller or rescue inhaler adherence review is due",
+    "due_date": "2026-06-21",
+    "status": "open"
+  },
+  {
+    "id": "gap-med-adherence-M-1040",
+    "member_id": "M-1040",
+    "type": "Medication adherence",
+    "severity": "medium",
+    "reason": "Medication adherence review is due",
+    "due_date": "2026-06-19",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1041",
+    "member_id": "M-1041",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1042",
+    "member_id": "M-1042",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-copd-followup-M-1042",
+    "member_id": "M-1042",
+    "type": "COPD follow-up",
+    "severity": "high",
+    "reason": "Low oxygen saturation requires pulmonary follow-up",
+    "due_date": "2026-06-23",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1043",
+    "member_id": "M-1043",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1044",
+    "member_id": "M-1044",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1045",
+    "member_id": "M-1045",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1046",
+    "member_id": "M-1046",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-asthma-adherence-M-1048",
+    "member_id": "M-1048",
+    "type": "Asthma medication adherence",
+    "severity": "medium",
+    "reason": "Controller or rescue inhaler adherence review is due",
+    "due_date": "2026-06-21",
+    "status": "open"
+  },
+  {
+    "id": "gap-preventive-screening-M-1054",
+    "member_id": "M-1054",
+    "type": "Preventive screening",
+    "severity": "low",
+    "reason": "Preventive screening outreach is due",
+    "due_date": "2026-07-26",
+    "status": "open"
+  },
+  {
+    "id": "gap-copd-followup-M-1056",
+    "member_id": "M-1056",
+    "type": "COPD follow-up",
+    "severity": "high",
+    "reason": "Low oxygen saturation requires pulmonary follow-up",
+    "due_date": "2026-06-23",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1062",
+    "member_id": "M-1062",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-viral-fever-followup-M-1066",
+    "member_id": "M-1066",
+    "type": "Acute illness follow-up",
+    "severity": "medium",
+    "reason": "Viral fever with high temperature needs symptom follow-up",
+    "due_date": "2026-06-28",
+    "status": "open"
+  },
+  {
+    "id": "gap-copd-followup-M-1070",
+    "member_id": "M-1070",
+    "type": "COPD follow-up",
+    "severity": "high",
+    "reason": "Low oxygen saturation requires pulmonary follow-up",
+    "due_date": "2026-06-23",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1071",
+    "member_id": "M-1071",
+    "type": "Diabetes follow-up",
+    "severity": "high",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-asthma-adherence-M-1072",
+    "member_id": "M-1072",
+    "type": "Asthma medication adherence",
+    "severity": "medium",
+    "reason": "Controller or rescue inhaler adherence review is due",
+    "due_date": "2026-06-21",
+    "status": "open"
+  },
+  {
+    "id": "gap-preventive-screening-M-1072",
+    "member_id": "M-1072",
+    "type": "Preventive screening",
+    "severity": "low",
+    "reason": "Preventive screening outreach is due",
+    "due_date": "2026-07-26",
+    "status": "open"
+  },
+  {
+    "id": "gap-viral-fever-followup-M-1077",
+    "member_id": "M-1077",
+    "type": "Acute illness follow-up",
+    "severity": "medium",
+    "reason": "Viral fever with high temperature needs symptom follow-up",
+    "due_date": "2026-06-28",
+    "status": "open"
+  },
+  {
+    "id": "gap-preventive-screening-M-1081",
+    "member_id": "M-1081",
+    "type": "Preventive screening",
+    "severity": "low",
+    "reason": "Preventive screening outreach is due",
+    "due_date": "2026-07-26",
+    "status": "open"
+  },
+  {
+    "id": "gap-viral-fever-followup-M-1083",
+    "member_id": "M-1083",
+    "type": "Acute illness follow-up",
+    "severity": "medium",
+    "reason": "Viral fever with high temperature needs symptom follow-up",
+    "due_date": "2026-06-28",
+    "status": "open"
+  },
+  {
+    "id": "gap-copd-followup-M-1084",
+    "member_id": "M-1084",
+    "type": "COPD follow-up",
+    "severity": "high",
+    "reason": "Low oxygen saturation requires pulmonary follow-up",
+    "due_date": "2026-06-23",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1087",
+    "member_id": "M-1087",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1090",
+    "member_id": "M-1090",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-med-adherence-M-1090",
+    "member_id": "M-1090",
+    "type": "Medication adherence",
+    "severity": "medium",
+    "reason": "Medication adherence review is due",
+    "due_date": "2026-06-19",
+    "status": "open"
+  },
+  {
+    "id": "gap-preventive-screening-M-1090",
+    "member_id": "M-1090",
+    "type": "Preventive screening",
+    "severity": "low",
+    "reason": "Preventive screening outreach is due",
+    "due_date": "2026-07-26",
+    "status": "open"
+  },
+  {
+    "id": "gap-a1c-followup-M-1092",
+    "member_id": "M-1092",
+    "type": "Diabetes follow-up",
+    "severity": "medium",
+    "reason": "Abnormal HbA1c without timely follow-up",
+    "due_date": "2026-06-06",
+    "status": "open"
+  },
+  {
+    "id": "gap-asthma-adherence-M-1096",
+    "member_id": "M-1096",
+    "type": "Asthma medication adherence",
+    "severity": "medium",
+    "reason": "Controller or rescue inhaler adherence review is due",
+    "due_date": "2026-06-21",
+    "status": "open"
+  },
+  {
+    "id": "gap-viral-fever-followup-M-1099",
+    "member_id": "M-1099",
+    "type": "Acute illness follow-up",
+    "severity": "medium",
+    "reason": "Viral fever with high temperature needs symptom follow-up",
+    "due_date": "2026-06-28",
+    "status": "open"
+  },
+  {
+    "id": "gap-preventive-screening-M-1099",
+    "member_id": "M-1099",
+    "type": "Preventive screening",
+    "severity": "low",
+    "reason": "Preventive screening outreach is due",
+    "due_date": "2026-07-26",
+    "status": "open"
+  }
+]

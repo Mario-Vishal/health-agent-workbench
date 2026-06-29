@@ -1,0 +1,1136 @@
+[
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1001",
+    "member_id": "M-1001",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-01-07"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1002",
+    "member_id": "M-1002",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-01-06"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1003",
+    "member_id": "M-1003",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-01-05"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1003",
+    "member_id": "M-1003",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-07-23"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1004",
+    "member_id": "M-1004",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-01-04"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1005",
+    "member_id": "M-1005",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-01-03"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1006",
+    "member_id": "M-1006",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-01-02"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1006",
+    "member_id": "M-1006",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-07-20"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1007",
+    "member_id": "M-1007",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-01-01"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-viral-fever-M-1007",
+    "member_id": "M-1007",
+    "code": "B34.9",
+    "display": "Acute viral syndrome with fever",
+    "clinicalStatus": "active",
+    "recordedDate": "2026-06-17"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1008",
+    "member_id": "M-1008",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-31"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-asthma-M-1008",
+    "member_id": "M-1008",
+    "code": "J45.909",
+    "display": "Asthma",
+    "clinicalStatus": "active",
+    "recordedDate": "2025-02-03"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1009",
+    "member_id": "M-1009",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-30"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1009",
+    "member_id": "M-1009",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-07-17"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1010",
+    "member_id": "M-1010",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-29"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1011",
+    "member_id": "M-1011",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-28"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-viral-fever-M-1011",
+    "member_id": "M-1011",
+    "code": "B34.9",
+    "display": "Acute viral syndrome with fever",
+    "clinicalStatus": "active",
+    "recordedDate": "2026-06-06"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1012",
+    "member_id": "M-1012",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-27"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1012",
+    "member_id": "M-1012",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-07-14"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1013",
+    "member_id": "M-1013",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-26"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-asthma-M-1013",
+    "member_id": "M-1013",
+    "code": "J45.909",
+    "display": "Asthma",
+    "clinicalStatus": "active",
+    "recordedDate": "2025-01-29"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1014",
+    "member_id": "M-1014",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-25"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1015",
+    "member_id": "M-1015",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-24"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1015",
+    "member_id": "M-1015",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-07-11"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1016",
+    "member_id": "M-1016",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-23"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1016",
+    "member_id": "M-1016",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-07-10"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-asthma-M-1016",
+    "member_id": "M-1016",
+    "code": "J45.909",
+    "display": "Asthma",
+    "clinicalStatus": "active",
+    "recordedDate": "2025-01-26"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1017",
+    "member_id": "M-1017",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-22"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1018",
+    "member_id": "M-1018",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-21"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1018",
+    "member_id": "M-1018",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-07-08"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1019",
+    "member_id": "M-1019",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-20"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1020",
+    "member_id": "M-1020",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-19"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1021",
+    "member_id": "M-1021",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-18"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1021",
+    "member_id": "M-1021",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-07-05"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1022",
+    "member_id": "M-1022",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-17"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-viral-fever-M-1022",
+    "member_id": "M-1022",
+    "code": "B34.9",
+    "display": "Acute viral syndrome with fever",
+    "clinicalStatus": "active",
+    "recordedDate": "2026-06-08"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1023",
+    "member_id": "M-1023",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-16"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1024",
+    "member_id": "M-1024",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-15"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1024",
+    "member_id": "M-1024",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-07-02"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-asthma-M-1024",
+    "member_id": "M-1024",
+    "code": "J45.909",
+    "display": "Asthma",
+    "clinicalStatus": "active",
+    "recordedDate": "2025-01-18"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1025",
+    "member_id": "M-1025",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-14"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1026",
+    "member_id": "M-1026",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-13"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1026",
+    "member_id": "M-1026",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-06-30"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-asthma-M-1026",
+    "member_id": "M-1026",
+    "code": "J45.909",
+    "display": "Asthma",
+    "clinicalStatus": "active",
+    "recordedDate": "2025-01-16"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1027",
+    "member_id": "M-1027",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-12"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1027",
+    "member_id": "M-1027",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-06-29"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1028",
+    "member_id": "M-1028",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-11"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1029",
+    "member_id": "M-1029",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-10"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1029",
+    "member_id": "M-1029",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-06-27"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1030",
+    "member_id": "M-1030",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-09"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1030",
+    "member_id": "M-1030",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-06-26"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1031",
+    "member_id": "M-1031",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-08"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1032",
+    "member_id": "M-1032",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-07"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-asthma-M-1032",
+    "member_id": "M-1032",
+    "code": "J45.909",
+    "display": "Asthma",
+    "clinicalStatus": "active",
+    "recordedDate": "2025-01-10"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1033",
+    "member_id": "M-1033",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-06"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1033",
+    "member_id": "M-1033",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-06-23"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-viral-fever-M-1033",
+    "member_id": "M-1033",
+    "code": "B34.9",
+    "display": "Acute viral syndrome with fever",
+    "clinicalStatus": "active",
+    "recordedDate": "2026-06-14"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1034",
+    "member_id": "M-1034",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-05"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1034",
+    "member_id": "M-1034",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-06-22"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1035",
+    "member_id": "M-1035",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-04"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1036",
+    "member_id": "M-1036",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-03"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1036",
+    "member_id": "M-1036",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-06-20"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1037",
+    "member_id": "M-1037",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-02"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1038",
+    "member_id": "M-1038",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-12-01"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1039",
+    "member_id": "M-1039",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-11-30"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1039",
+    "member_id": "M-1039",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-06-17"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-asthma-M-1039",
+    "member_id": "M-1039",
+    "code": "J45.909",
+    "display": "Asthma",
+    "clinicalStatus": "active",
+    "recordedDate": "2025-01-03"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1040",
+    "member_id": "M-1040",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-11-29"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-asthma-M-1040",
+    "member_id": "M-1040",
+    "code": "J45.909",
+    "display": "Asthma",
+    "clinicalStatus": "active",
+    "recordedDate": "2025-01-02"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1041",
+    "member_id": "M-1041",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-11-28"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1042",
+    "member_id": "M-1042",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-11-27"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1042",
+    "member_id": "M-1042",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-06-14"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-copd-M-1042",
+    "member_id": "M-1042",
+    "code": "J44.9",
+    "display": "Chronic obstructive pulmonary disease",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-09-02"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1043",
+    "member_id": "M-1043",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-11-26"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1044",
+    "member_id": "M-1044",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-11-25"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-viral-fever-M-1044",
+    "member_id": "M-1044",
+    "code": "B34.9",
+    "display": "Acute viral syndrome with fever",
+    "clinicalStatus": "active",
+    "recordedDate": "2026-06-21"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1045",
+    "member_id": "M-1045",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-11-24"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1045",
+    "member_id": "M-1045",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-06-11"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1046",
+    "member_id": "M-1046",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-11-23"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1047",
+    "member_id": "M-1047",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-06-09"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1048",
+    "member_id": "M-1048",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-06-08"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-asthma-M-1048",
+    "member_id": "M-1048",
+    "code": "J45.909",
+    "display": "Asthma",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-12-25"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1051",
+    "member_id": "M-1051",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-06-05"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-asthma-M-1052",
+    "member_id": "M-1052",
+    "code": "J45.909",
+    "display": "Asthma",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-12-21"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1054",
+    "member_id": "M-1054",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-06-02"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-viral-fever-M-1055",
+    "member_id": "M-1055",
+    "code": "B34.9",
+    "display": "Acute viral syndrome with fever",
+    "clinicalStatus": "active",
+    "recordedDate": "2026-06-05"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-asthma-M-1056",
+    "member_id": "M-1056",
+    "code": "J45.909",
+    "display": "Asthma",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-12-17"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-copd-M-1056",
+    "member_id": "M-1056",
+    "code": "J44.9",
+    "display": "Chronic obstructive pulmonary disease",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-08-19"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1057",
+    "member_id": "M-1057",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-05-30"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-viral-fever-M-1058",
+    "member_id": "M-1058",
+    "code": "B34.9",
+    "display": "Acute viral syndrome with fever",
+    "clinicalStatus": "active",
+    "recordedDate": "2026-06-12"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1060",
+    "member_id": "M-1060",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-05-27"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1062",
+    "member_id": "M-1062",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-11-07"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1063",
+    "member_id": "M-1063",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-05-24"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-asthma-M-1064",
+    "member_id": "M-1064",
+    "code": "J45.909",
+    "display": "Asthma",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-12-09"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1066",
+    "member_id": "M-1066",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-05-21"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-viral-fever-M-1066",
+    "member_id": "M-1066",
+    "code": "B34.9",
+    "display": "Acute viral syndrome with fever",
+    "clinicalStatus": "active",
+    "recordedDate": "2026-06-08"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1069",
+    "member_id": "M-1069",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-05-18"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-copd-M-1070",
+    "member_id": "M-1070",
+    "code": "J44.9",
+    "display": "Chronic obstructive pulmonary disease",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-08-05"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1071",
+    "member_id": "M-1071",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-10-29"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1072",
+    "member_id": "M-1072",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-05-15"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-asthma-M-1072",
+    "member_id": "M-1072",
+    "code": "J45.909",
+    "display": "Asthma",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-12-01"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1075",
+    "member_id": "M-1075",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-05-12"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-viral-fever-M-1077",
+    "member_id": "M-1077",
+    "code": "B34.9",
+    "display": "Acute viral syndrome with fever",
+    "clinicalStatus": "active",
+    "recordedDate": "2026-06-14"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1078",
+    "member_id": "M-1078",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-05-09"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1079",
+    "member_id": "M-1079",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-05-08"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1080",
+    "member_id": "M-1080",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-05-07"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-asthma-M-1080",
+    "member_id": "M-1080",
+    "code": "J45.909",
+    "display": "Asthma",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-11-23"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1081",
+    "member_id": "M-1081",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-05-06"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1083",
+    "member_id": "M-1083",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-05-04"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-viral-fever-M-1083",
+    "member_id": "M-1083",
+    "code": "B34.9",
+    "display": "Acute viral syndrome with fever",
+    "clinicalStatus": "active",
+    "recordedDate": "2026-06-13"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1084",
+    "member_id": "M-1084",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-05-03"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-copd-M-1084",
+    "member_id": "M-1084",
+    "code": "J44.9",
+    "display": "Chronic obstructive pulmonary disease",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-07-22"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1086",
+    "member_id": "M-1086",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-05-01"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1087",
+    "member_id": "M-1087",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-10-13"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1087",
+    "member_id": "M-1087",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-04-30"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-viral-fever-M-1088",
+    "member_id": "M-1088",
+    "code": "B34.9",
+    "display": "Acute viral syndrome with fever",
+    "clinicalStatus": "active",
+    "recordedDate": "2026-06-24"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-asthma-M-1088",
+    "member_id": "M-1088",
+    "code": "J45.909",
+    "display": "Asthma",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-11-15"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1090",
+    "member_id": "M-1090",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-10-10"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1090",
+    "member_id": "M-1090",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-04-27"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-dm-M-1092",
+    "member_id": "M-1092",
+    "code": "E11.9",
+    "display": "Type 2 diabetes mellitus",
+    "clinicalStatus": "active",
+    "recordedDate": "2023-10-08"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1093",
+    "member_id": "M-1093",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-04-24"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1094",
+    "member_id": "M-1094",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-04-23"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1096",
+    "member_id": "M-1096",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-04-21"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-asthma-M-1096",
+    "member_id": "M-1096",
+    "code": "J45.909",
+    "display": "Asthma",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-11-07"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-htn-M-1099",
+    "member_id": "M-1099",
+    "code": "I10",
+    "display": "Essential hypertension",
+    "clinicalStatus": "active",
+    "recordedDate": "2024-04-18"
+  },
+  {
+    "resourceType": "Condition",
+    "id": "cond-viral-fever-M-1099",
+    "member_id": "M-1099",
+    "code": "B34.9",
+    "display": "Acute viral syndrome with fever",
+    "clinicalStatus": "active",
+    "recordedDate": "2026-06-18"
+  }
+]

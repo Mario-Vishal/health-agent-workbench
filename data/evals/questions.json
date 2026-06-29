@@ -1,0 +1,56 @@
+[
+  {
+    "id": "eval-001",
+    "query": "Find diabetic members with abnormal HbA1c and no follow-up.",
+    "expected_tools": [
+      "search_patients",
+      "get_patient_observations",
+      "compute_care_gaps"
+    ]
+  },
+  {
+    "id": "eval-002",
+    "query": "Why might claim CLM-1008 be denied?",
+    "expected_tools": [
+      "get_claim_details",
+      "retrieve_policy_snippets"
+    ]
+  },
+  {
+    "id": "eval-003",
+    "query": "Show care gaps for high-risk diabetic members.",
+    "expected_tools": [
+      "build_patient_cohort",
+      "compute_care_gaps"
+    ]
+  },
+  {
+    "id": "eval-004",
+    "query": "Summarize member M-1001's clinical and claims timeline.",
+    "expected_tools": [
+      "get_patient_timeline"
+    ]
+  },
+  {
+    "id": "eval-005",
+    "query": "Which evidence supports this answer?",
+    "expected_tools": [
+      "validate_answer_grounding",
+      "check_citation_coverage"
+    ]
+  },
+  {
+    "id": "eval-006",
+    "query": "Find people with viral fever.",
+    "expected_tools": [
+      "search_clinical_records"
+    ]
+  },
+  {
+    "id": "eval-007",
+    "query": "Show asthma medication adherence gaps.",
+    "expected_tools": [
+      "search_clinical_records"
+    ]
+  }
+]

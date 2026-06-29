@@ -1,0 +1,21 @@
+{
+  "name": "health-agent-workbench",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "apps/web",
+    "packages/shared"
+  ],
+  "scripts": {
+    "dev": "npm --workspace apps/web run dev",
+    "build": "npm --workspace apps/web run build",
+    "lint": "npm --workspace apps/web run lint",
+    "typecheck": "npm --workspace apps/web run typecheck",
+    "seed": "python apps/api/scripts/seed_demo_data.py",
+    "synthea:generate": "python scripts/generate_synthea.py",
+    "api": "uvicorn app.main:app --app-dir apps/api --reload --host 0.0.0.0 --port 8000"
+  },
+  "devDependencies": {
+    "playwright": "^1.61.1"
+  }
+}

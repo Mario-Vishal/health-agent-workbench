@@ -1,0 +1,902 @@
+[
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1001",
+    "member_id": "M-1001",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-04-02",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1002",
+    "member_id": "M-1002",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-06-17",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1003",
+    "member_id": "M-1003",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-02-25",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1004",
+    "member_id": "M-1004",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-08-13",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1005",
+    "member_id": "M-1005",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-12-11",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1006",
+    "member_id": "M-1006",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-01-08",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1007",
+    "member_id": "M-1007",
+    "type": "Viral fever evaluation",
+    "status": "finished",
+    "period_start": "2026-06-22",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1008",
+    "member_id": "M-1008",
+    "type": "Pulmonary follow-up",
+    "status": "finished",
+    "period_start": "2025-05-28",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1009",
+    "member_id": "M-1009",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-05-10",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1010",
+    "member_id": "M-1010",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-05-12",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1011",
+    "member_id": "M-1011",
+    "type": "Viral fever evaluation",
+    "status": "finished",
+    "period_start": "2026-06-13",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1012",
+    "member_id": "M-1012",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-05-28",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1013",
+    "member_id": "M-1013",
+    "type": "Pulmonary follow-up",
+    "status": "finished",
+    "period_start": "2025-05-08",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1014",
+    "member_id": "M-1014",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-09-19",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1015",
+    "member_id": "M-1015",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-07-22",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1016",
+    "member_id": "M-1016",
+    "type": "Pulmonary follow-up",
+    "status": "finished",
+    "period_start": "2025-09-27",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1017",
+    "member_id": "M-1017",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-10-01",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1018",
+    "member_id": "M-1018",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-12-05",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1019",
+    "member_id": "M-1019",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-09-01",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1020",
+    "member_id": "M-1020",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-01-22",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1021",
+    "member_id": "M-1021",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-02-13",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1022",
+    "member_id": "M-1022",
+    "type": "Viral fever evaluation",
+    "status": "finished",
+    "period_start": "2026-06-17",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1023",
+    "member_id": "M-1023",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-05-09",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1024",
+    "member_id": "M-1024",
+    "type": "Pulmonary follow-up",
+    "status": "finished",
+    "period_start": "2026-03-31",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1025",
+    "member_id": "M-1025",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-03-27",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1026",
+    "member_id": "M-1026",
+    "type": "Pulmonary follow-up",
+    "status": "finished",
+    "period_start": "2025-08-08",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1027",
+    "member_id": "M-1027",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-04-20",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1028",
+    "member_id": "M-1028",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-02-16",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1029",
+    "member_id": "M-1029",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-09-03",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1030",
+    "member_id": "M-1030",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-11-27",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1031",
+    "member_id": "M-1031",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-09-29",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1032",
+    "member_id": "M-1032",
+    "type": "Pulmonary follow-up",
+    "status": "finished",
+    "period_start": "2025-09-02",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1033",
+    "member_id": "M-1033",
+    "type": "Viral fever evaluation",
+    "status": "finished",
+    "period_start": "2026-06-13",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1034",
+    "member_id": "M-1034",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-02-20",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1035",
+    "member_id": "M-1035",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-06-11",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1036",
+    "member_id": "M-1036",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-12-23",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1037",
+    "member_id": "M-1037",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-09-19",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1038",
+    "member_id": "M-1038",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-01-04",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1039",
+    "member_id": "M-1039",
+    "type": "Pulmonary follow-up",
+    "status": "finished",
+    "period_start": "2025-09-04",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1040",
+    "member_id": "M-1040",
+    "type": "Pulmonary follow-up",
+    "status": "finished",
+    "period_start": "2025-05-16",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1041",
+    "member_id": "M-1041",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-03-08",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1042",
+    "member_id": "M-1042",
+    "type": "Pulmonary follow-up",
+    "status": "finished",
+    "period_start": "2025-05-14",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1043",
+    "member_id": "M-1043",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-04-24",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1044",
+    "member_id": "M-1044",
+    "type": "Viral fever evaluation",
+    "status": "finished",
+    "period_start": "2026-06-12",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1045",
+    "member_id": "M-1045",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-11-08",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1046",
+    "member_id": "M-1046",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-02-07",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1047",
+    "member_id": "M-1047",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-05-17",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1048",
+    "member_id": "M-1048",
+    "type": "Pulmonary follow-up",
+    "status": "finished",
+    "period_start": "2025-10-27",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1049",
+    "member_id": "M-1049",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-07-16",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1050",
+    "member_id": "M-1050",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-04-16",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1051",
+    "member_id": "M-1051",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-08-24",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1052",
+    "member_id": "M-1052",
+    "type": "Pulmonary follow-up",
+    "status": "finished",
+    "period_start": "2025-07-11",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1053",
+    "member_id": "M-1053",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-12-05",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1054",
+    "member_id": "M-1054",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-03-11",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1055",
+    "member_id": "M-1055",
+    "type": "Viral fever evaluation",
+    "status": "finished",
+    "period_start": "2026-06-24",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1056",
+    "member_id": "M-1056",
+    "type": "Pulmonary follow-up",
+    "status": "finished",
+    "period_start": "2025-11-30",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1057",
+    "member_id": "M-1057",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-07-27",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1058",
+    "member_id": "M-1058",
+    "type": "Viral fever evaluation",
+    "status": "finished",
+    "period_start": "2026-06-16",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1059",
+    "member_id": "M-1059",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-01-13",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1060",
+    "member_id": "M-1060",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-05-13",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1061",
+    "member_id": "M-1061",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-02-19",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1062",
+    "member_id": "M-1062",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-02-13",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1063",
+    "member_id": "M-1063",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-12-10",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1064",
+    "member_id": "M-1064",
+    "type": "Pulmonary follow-up",
+    "status": "finished",
+    "period_start": "2026-01-21",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1065",
+    "member_id": "M-1065",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-02-05",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1066",
+    "member_id": "M-1066",
+    "type": "Viral fever evaluation",
+    "status": "finished",
+    "period_start": "2026-06-20",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1067",
+    "member_id": "M-1067",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-08-12",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1068",
+    "member_id": "M-1068",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-02-09",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1069",
+    "member_id": "M-1069",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-02-21",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1070",
+    "member_id": "M-1070",
+    "type": "Pulmonary follow-up",
+    "status": "finished",
+    "period_start": "2026-01-27",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1071",
+    "member_id": "M-1071",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-09-24",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1072",
+    "member_id": "M-1072",
+    "type": "Pulmonary follow-up",
+    "status": "finished",
+    "period_start": "2025-08-15",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1073",
+    "member_id": "M-1073",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-04-11",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1074",
+    "member_id": "M-1074",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-05-19",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1075",
+    "member_id": "M-1075",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-03-10",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1076",
+    "member_id": "M-1076",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-08-17",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1077",
+    "member_id": "M-1077",
+    "type": "Viral fever evaluation",
+    "status": "finished",
+    "period_start": "2026-06-14",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1078",
+    "member_id": "M-1078",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-03-29",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1079",
+    "member_id": "M-1079",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-05-20",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1080",
+    "member_id": "M-1080",
+    "type": "Pulmonary follow-up",
+    "status": "finished",
+    "period_start": "2025-09-06",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1081",
+    "member_id": "M-1081",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-03-24",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1082",
+    "member_id": "M-1082",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-02-28",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1083",
+    "member_id": "M-1083",
+    "type": "Viral fever evaluation",
+    "status": "finished",
+    "period_start": "2026-06-14",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1084",
+    "member_id": "M-1084",
+    "type": "Pulmonary follow-up",
+    "status": "finished",
+    "period_start": "2025-06-11",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1085",
+    "member_id": "M-1085",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-01-30",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1086",
+    "member_id": "M-1086",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-03-06",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1087",
+    "member_id": "M-1087",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-11-23",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1088",
+    "member_id": "M-1088",
+    "type": "Viral fever evaluation",
+    "status": "finished",
+    "period_start": "2026-06-15",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1089",
+    "member_id": "M-1089",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-06-20",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1090",
+    "member_id": "M-1090",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-02-25",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1091",
+    "member_id": "M-1091",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-05-07",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1092",
+    "member_id": "M-1092",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-05-06",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1093",
+    "member_id": "M-1093",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-10-19",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1094",
+    "member_id": "M-1094",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-12-03",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1095",
+    "member_id": "M-1095",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-12-12",
+    "location": "North Valley Clinic"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1096",
+    "member_id": "M-1096",
+    "type": "Pulmonary follow-up",
+    "status": "finished",
+    "period_start": "2025-09-18",
+    "location": "Lakeview Medical"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1097",
+    "member_id": "M-1097",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-05-22",
+    "location": "Cedar Primary Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1098",
+    "member_id": "M-1098",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2026-05-25",
+    "location": "Summit Endocrinology"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1099",
+    "member_id": "M-1099",
+    "type": "Viral fever evaluation",
+    "status": "finished",
+    "period_start": "2026-06-24",
+    "location": "Riverside Respiratory Care"
+  },
+  {
+    "resourceType": "Encounter",
+    "id": "enc-M-1100",
+    "member_id": "M-1100",
+    "type": "Primary care follow-up",
+    "status": "finished",
+    "period_start": "2025-10-21",
+    "location": "North Valley Clinic"
+  }
+]
